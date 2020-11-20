@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /publications
 feature-img: "img/sample_feature_img_3.png"
 ---
 

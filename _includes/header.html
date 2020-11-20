@@ -16,14 +16,45 @@
 	<nav class="site-nav">
 		<ul class="topnav" id="myTopnav">
 			{% for link in site.navigation %}
-				{% assign current = nil %}
+			{% assign current = nil %}
+
+			{% if link.sub != null %}
+			
+			<li>
+				<!-- Dropdown menu -->
+				<div class="dropdown">
+			
+				<a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }} &darr;</a>
+			
+				<div class="dropdown-content">
+				<ul>
+					<!-- 2nd level -->
+					{% for sub in link.sub %}
+					<li>
+						<a href="{{ site.baseurl }}{{ sub.url }}">
+						{{ sub.title }}
+						</a>
+					</li>
+					{% endfor %}
+				</ul>
+				</div>
+				</div>
+			
+			</li>
+			  
+			  {% else %}
+				
 				{% if page.url contains link.url %}
 					{% assign current = 'current' %}
 				{% endif %}
 				<li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
 					<a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
 				</li>
+
+				{% endif %}
 			{% endfor %}
+			
+
 			<li class="responsive-menu-icon">
 				<a href="javascript:void(0);" onclick="responsiveMenu()">&#9776;</a>
 			</li>

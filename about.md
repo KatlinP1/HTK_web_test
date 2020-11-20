@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
+title: About us
+permalink: /about
 feature-img: "img/sample_feature_img_2.png"
 ---
 

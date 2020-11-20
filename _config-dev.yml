@@ -2,6 +2,11 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 
+#plugins- lisatud uus....  
+plugins: 
+  - jekyll-paginate
+
+
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
@@ -56,11 +61,12 @@ theme:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
-# PAGINATION
+# PAGINATION - enabled true (lisatud juurde)
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "news/page:num"
+enabled: true
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -72,17 +78,28 @@ gems: [jekyll-paginate]
 
 # Navigation
 navigation:
-- title: About Us
-  url: /about
-- title: People
-  url: /people
+- title: Home UUS
+  url: /home/
 - title: Research
   url: /research
-- title: Publications
-  url: /publications
-- title: Projects
-  url: /research/projects
-- title: Digivalge
-  url: /digivalge
-- title: Contact
-  url: /contact
+  sub:
+    - title: Projects
+      url: /research/projects 
+    - title: Publications UUS
+      url: /research/publications2/
+    - title: Products POLE
+      url: /research/products
+- title: News & Events
+  url: /news
+  sub:
+    - title: News
+      url: /news
+    - title: Events
+      url: /digivalge   
+- title: People
+  url: /people 
+- title: About us
+  url: /about/
+  sub:
+    - title: Contact
+      url: /about/contact     
