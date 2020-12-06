@@ -4,5 +4,14 @@
   text-align: center;
   width: 100%;
   color: lighten($text-color, 30%);
-  font-size: 0.9em;
+  font-size: 0.8em;
+  padding: 10px!important;
+}
+.footer-row {
+  display: inline-block;
+  text-align: center;
+  float: left;
+  width: 33%;
+  
+  
 }

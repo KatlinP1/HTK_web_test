@@ -1,0 +1,36 @@
+.people_nav{
+    display: flex;
+    text-align: center;
+}
+.people_nav div{
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+}
+.people_list{
+    padding-bottom: 40px;
+}
+.people_item{
+    text-align: left;
+    font-size: 0.8em;
+    padding-right: 50px;
+    width: 336px;
+    height: 270px;
+    float: left;
+    padding-bottom: 20px;
+}
+.people_item img{
+    width: 150px;
+    height: 150px;
+    padding-bottom: 5px;
+}
+.people_name{
+    font-weight: bold;
+}
+.people_title{
+    padding-bottom: 20px;
+}
+
+.clear{
+    clear: both;
+}

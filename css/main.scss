@@ -20,6 +20,14 @@
 @import 'includes/header';
 @import 'includes/footer';
 
+// Page
+@import 'page/contact';
+@import 'page/research';
+@import 'page/people';
+@import 'page/projects';
+
+@import './bootstrap/bootstrap-grid.min.css';
+
 // Project template
 
 .two-col-section {

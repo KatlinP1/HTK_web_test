@@ -31,7 +31,7 @@ feature-img: "img/sample_feature_img_3.png"
     hideYearElements();
     var id = "publications-"+year;
     var elem = document.getElementById(id);
-    if(elem!==null){7
+    if(elem!==null){
       elem.style.display = 'block';
     }
   }

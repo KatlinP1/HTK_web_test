@@ -4,37 +4,171 @@ title: People
 permalink: /people/
 feature-img: "img/sample_feature_img.png"
 ---
+<div class="people_nav">
+    <div><a href="#admin">Administrative</a></div>
+    <div><a href="#research">Research</a></div>
+    <div><a href="#support">Research support and dev staff</a></div>
+</div>
 
-**Administrative**
+<h2 id="admin" >Administrative</h2>
+<div class="people_list">
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Kairit_Tammets/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Kairit Tammets (Ph.D)</div>
+        <div>Head of the centre for educational technology</div>
+        <div>Kairit.Tammets@tlu.ee</div>
+        <div class="people_title">+372 640 9355</div>
+    </div>
+    <div class="people_item">
+        <a><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Anet Tammets</div>
+        <div>Projects Coordinator</div>
+        <div>Anet.Tammets@tlu.ee</div>
+        <div class="people_title">+372 640 9355</div>
+    </div>
+    <div class="people_item">
+        <a><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Ramune Tuulik</div>
+        <div>Assistant</div>
+        <div>Ramune.Tuulik@tlu.ee</div>
+        <div class="people_title">+372 640 9355</div>
+    </div>
+    <div class="clear"></div>
+</div>
 
-| **Kairit Tammets, Ph.D** <br>Head of the centre for educational technology | Coordination and management of the research centre | Kairit.Tammets@tlu.ee<br> +372 6409 355
-| **Anet Tammets** <br> Projects Coordinator | Financial reporting of the research projects  | Anet.Tammets@tlu.ee<br> +372 640 9355
-| **Ramune Tuulik** <br> Assistant | Administrative aspects of Centre for Educational Technology | Ramune.Tuulik@tlu.ee <br> +372 640 9355
+<h2 id="research">Research</h2>
+<div class="people_list">
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Mart_Laanpere/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Mart Laanpere</div>
+        <div>Senior Researcher of Educational technology</div>
+        <div class="people_title">Mart.Laanpere@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Kai_Pata/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Kai Pata</div>
+        <div>Senior Researcher and associate professor of Educational technology</div>
+        <div class="people_title">Kai.Pata@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Kairit_Tammets/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Kairit Tammets</div>
+        <div>Senior Researcher of Educational technology</div>
+        <div class="people_title">Kairit.Tammets@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Terje_V%C3%A4ljataga/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Terje Väljataga</div>
+        <div>Senior Researcher of Educational technology</div>
+        <div class="people_title">Terje.Valjataga@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/hanspoldoja/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Hans Põldoja</div>
+        <div>Associate professor, head of the studies</div>
+        <div class="people_title">Hans.Poldoja@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Martin_Sillaots/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Martin Sillaots</div>
+        <div>Associate professor</div>
+        <div class="people_title">Martin.Sillaots@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Maria%20jesus_Rodriguez%20triana/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Maria Jesus Rodriguez Triana</div>
+        <div>Senior Researcher of Educational data mining</div>
+        <div class="people_title">Maria_jesus.Rodriguez_triana@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Vladimir_Tomberg/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Vladimir Tomberg</div>
+        <div>Senior Researcher and Associate Professor</div>
+        <div class="people_title">vladimir.tomberg@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Triinu_Jesmin/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Triinu Jesmin</div>
+        <div>Lecturer, junior researcher</div>
+        <div class="people_title">Triinu.Jesmin@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Jaanika_Hirv-Biene/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Jaanika Hirv</div>
+        <div>Analyst (currently on leave)</div>
+        <div class="people_title"></div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Linda%20Helene_Sillat/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Linda Helene Sillat</div>
+        <div>Junior researcher</div>
+        <div class="people_title">sillat@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/James%20Sunney_Quaicoe/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">James Sunney Quaicoe</div>
+        <div>Junior researcher</div>
+        <div class="people_title">james_sunney.quaicoe@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Gerti_Pishtari/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Gerti Pishtari</div>
+        <div>Junior researcher, PhD student</div>
+        <div class="people_title">Gerti.Pishtari@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Eka_Jeladze/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Eka Jeladze</div>
+        <div>Junior researcher, PhD student</div>
+        <div class="people_title">Eka.Jeladze@tlu.ee</div>
+    </div>
+     <div class="people_item">
+        <a href="https://www.etis.ee/CV/Shashi%20Kant_Shankar/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Shashi Kant Shankar</div>
+        <div>PhD student</div>
+        <div class="people_title">shashik@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Maia_Lust/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Maia Lust</div>
+        <div>Junior researcher, PhD student</div>
+        <div class="people_title">maia.lust@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Pankaj_Chejara/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Pankaj Chejara</div>
+        <div>Web Developer, PhD student</div>
+        <div class="people_title">pankaj.chejara@tlu.ee</div>
+    </div>
+    <div class="clear"></div>
+</div>
 
-**Research**
+<h2 id="support">Research support and dev staff</h2>
+<div class="people_list">
+    <div class="people_item">
+        <a href="https://www.etis.ee/CV/Priit_Tammets/est" target="_blank"><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Priit Tammets</div>
+        <div>Analyst</div>
+        <div class="people_title">Priit.Tammets@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Pjotr Savitski</div>
+        <div>Senior developer</div>
+        <div class="people_title">Pjotr.Savitski@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Gleb Redko</div>
+        <div>Developer</div>
+        <div class="people_title">Gleb.Redko@tlu.ee</div>
+    </div>
+    <div class="people_item">
+        <a><img src="https://secondchancetinyhomes.org/wp-content/uploads/2016/09/empty-profile.png"></a>
+        <div class="people_name">Aili Madisson</div>
+        <div>Developer</div>
+        <div class="people_title">Aili.Madisson@tlu.ee</div>
+    </div>
+    <div class="clear"></div>
+</div>
 
-| **Mart Laanpere** | Senior Researcher of Educational technology| Mart.Laanpere@tlu.ee
-| **Kai Pata** | Senior Researcher and associate professor of Educational technology| Kai.Pata@tlu.ee
-| **Kairit Tammets** <br> Senior Researcher of Educational technology | Teachers' online communities, competency-based learning, digital competencies, Learning Analytics for policy making | Kairit.Tammets@tlu.ee
-| **Terje Väljataga** | Senior Researcher of Educational technology| Terje.Valjataga@tlu.ee
-| **Hans Põldoja** <br> Associate professor, head of the studies  | Open Educational Resources, interaction design | Hans.Poldoja@tlu.ee
-| **Martin Sillaots** <br> Associate professor | Game-based learning | Martin.Sillaots@tlu.ee
-| **Maria Jesus Rodriguez Triana** | Senior Researcher of Educational data mining| Maria_jesus.Rodriguez_triana@tlu.ee
-| **Vladimir Tomberg** | Senior Researcher and Associate Professor| vladimir.tomberg@tlu.ee
-| **Triinu Jesmin** <br> Lecturer, junior researcher | Serious games, data analysis, statistics  | Triinu.Jesmin@tlu.ee
-| **Jaanika Hirv** | Analyst (currently on leave)
-| **Linda Helene Sillat** | Junior researcher | sillat@tlu.ee
-| **James Sunney Quaicoe** | Junior researcher | james_sunney.quaicoe@tlu.ee
-| **Gerti Pishtari** | Junior researcher, PhD student| Gerti.Pishtari@tlu.ee
-| **Eka Jeladze** | Junior researcher, PhD student | Eka.Jeladze@tlu.ee
-| **Shashi Kant Shankar** | PhD student |shashik@tlu.ee
-| **Maia Lust** | Junior researcher, PhD student | maia.lust@tlu.ee 
-| **Pankaj Chejara** | Web Developer, PhD student | pankaj.chejara@tlu.ee
-
-
-**Research support and dev staff**
-
-| **Priit Tammets** | Analyst | Priit.Tammets@tlu.ee
-| **Pjotr Savitski** | Senior developer | Pjotr.Savitski@tlu.ee
-| **Gleb Redko** | Developer | Gleb.Redko@tlu.ee
-| **Aili Madisson** | Developer | Aili.Madisson@tlu.ee

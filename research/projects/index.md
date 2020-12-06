@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /research/projects/
+title: Projects1
+permalink: /research/projects1/
 feature-img: "img/sample_feature_img_3.png"
 ---
 

@@ -1,0 +1,45 @@
+topic: "other"
+topic_id: "other"
+projects:
+  - title: "something other"
+    period: "something"
+    program: "something"
+    members: "someone"
+
+  - title: "Aapele - Algorithms, Architectures and Platforms for Enhanced Living Environments"
+    period: " 01.05.2016 – 30.04.2017"
+    program: "EC, COST"
+    members: "David Lamas, Sonia Sousa, Ilja Šmorgun"
+    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
+    link: "_projects/aapele.md"
+
+  - title: "Collective Dreaming: Experimental Interaction Design course for non-ICT audiences"
+    period: "s15.06.2016 - 01.10.2017"
+    program: "Nordplus"
+    members: "Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun"
+    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
+
+  - title: "DigCompOrg - Piloting the European Framework for Digitally-Competent Schools in EU education systems LOT 5: DigCompOrg school pilot in Estonia"
+    period: "01.09.2016 – 31.08.2018"
+    program: "EC, Joint Research Centre"
+    members: "Mart Laanpere"
+    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
+
+  - title: "DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society"
+    period: "01.09.2017 – 31.08.2019"
+    program: "Erasmus+ - Strategic Partnerships"
+    members: "Kai Pata"
+    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
+
+  - title: "Integrating open and citizen science into active learning approaches in higher education"
+    period: "1.09.2019 - 31.08.2022"
+    program: "Erasmus+ - Strategic Partnerships"
+    members: "Kai Pata, Külli Kori"     
+    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
+       
+
+
+
+
+
+

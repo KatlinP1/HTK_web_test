@@ -2,6 +2,11 @@
 baseurl: "/htk" # the subpath of your site, e.g. /blog/
 url: "http://htk.tlu.ee" # the base hostname & protocol for your site
 
+
+#plugins- pole vaja ilmselt 
+plugins: 
+  - jekyll-paginate
+
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
@@ -58,9 +63,10 @@ theme:
   # Post navigation
   post_navigation: false
 
-# PAGINATION
+# PAGINATION - enabled true juurde lisatud 
 paginate: 5
 paginate_path: "blog/page:num"
+enabled: true
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -69,6 +75,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+#gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jekyll-paginate]
 
 # Navigation
 navigation:
@@ -86,3 +93,4 @@ navigation:
   url: /digivalge
 - title: Contact
   url: /contact
+

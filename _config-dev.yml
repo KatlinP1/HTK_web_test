@@ -79,11 +79,11 @@ gems: [jekyll-paginate]
 # Navigation
 navigation:
 - title: Home UUS
-  url: /home/
-- title: Research
+  url: /index
+- title: Research UUS
   url: /research
   sub:
-    - title: Projects
+    - title: Projects POOLIK
       url: /research/projects 
     - title: Publications UUS
       url: /research/publications2/
@@ -94,12 +94,12 @@ navigation:
   sub:
     - title: News
       url: /news
-    - title: Events
-      url: /digivalge   
-- title: People
+    - title: Events POLE
+      url: /events   
+- title: People UUS
   url: /people 
 - title: About us
   url: /about/
   sub:
-    - title: Contact
+    - title: Contact UUS
       url: /about/contact     

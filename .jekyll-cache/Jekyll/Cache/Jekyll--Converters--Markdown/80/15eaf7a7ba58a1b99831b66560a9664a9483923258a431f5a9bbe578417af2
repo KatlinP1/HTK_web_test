@@ -1,0 +1,35 @@
+I"ƒ<div>
+    <div class="text_container">
+        <div>
+            <p><strong>Visiting address:</strong><br />
+            Centre for Educational Technology<br />
+            School of Digital Technologies<br />
+            Tallinn University<br />
+            Astra Building<br />
+            Narva road 29<br />
+            10120, Tallinn<br />
+            ESTONIA</p>
+        </div>
+        <div>
+            <p><strong>Address:</strong><br />
+            Haridustehnoloogia Keskus<br />
+            Digitehnoloogiate instituut<br />
+            Tallinna Ãœlikool<br />
+            Astra maja<br />
+            Narva mnt 29<br />
+            10120, Tallinn<br />
+            EESTI</p>
+        </div>
+    </div>
+        <div class="picture">
+            <img src="https://g.delfi.ee/images/pix/astra-astra-maja-hommik-ilm-sugis-tallinn-tallinna-ulikool-tlu-valgus-86709433.jpg" />
+        </div>
+</div>
+
+<div class="contact">
+    <h3>CONTACT US DIRECTLY</h3>
+    <p>Phone: (+372) 6409 355<br />Fax: (+372) 6409 116<br />E-mail: kairit.tammets@tlu.ee</p>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5523.410647879032!2d24.766048457479595!3d59.437986644784935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4692935c7ed21b5b%3A0x34ce7211e853036f!2zVEzDnA!5e0!3m2!1set!2see!4v1469444351528" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+:ET
