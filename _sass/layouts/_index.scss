@@ -58,6 +58,20 @@ ul.social-media-icons li a {
   }
 }
 .pagination {
-  padding: $padding-small $padding-large 0 $padding-large;
+  padding: 1% $padding-large 3% $padding-large;
   text-align: center;
+}
+
+//homepage list (3 events, blog posts)
+.mainpage_list{
+  padding-top: 10px;
+  padding-bottom: 5px;
+  height: 150px;
+  a {
+    color: black;
+    font-weight: bold;
+   }
+   p{
+    font-size: 0.8em;
+   }
 }

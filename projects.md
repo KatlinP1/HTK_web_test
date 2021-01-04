@@ -19,7 +19,7 @@ feature-img: "img/sample_feature_img_3.png"
 <div class="col-md-6 project-container topic-{{project_sub.topic_id}} , project_info">
     <div class="row">
         <div class="col-md-6 project_short_desc" >
-        <h5 href="">{{project.title}}</h5>
+        <h5> <a href="{{project.url}}">{{project.title}} </a></h5>
         <p>{{project.period}}</p>
         <p>{{project.program}}</p> 
         <p>{{project.members}}</p>

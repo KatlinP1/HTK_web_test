@@ -1,0 +1,9 @@
+---
+layout: post
+title: FIRSTBLOG
+feature-img: "img/posts/enrope-kickoff2019.jpg"
+permalink: "/firstblog"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique sagittis sollicitudin. Cras ornare congue laoreet. Donec dui velit, mollis a suscipit sed, dignissim ut odio. Maecenas sed quam et metus pretium varius eu vel tortor. Nam eleifend magna nec nulla molestie, eget lacinia metus ultricies. Donec elementum enim laoreet dolor accumsan, sed suscipit arcu malesuada. Aliquam erat volutpat. Fusce hendrerit sit amet libero ac tincidunt. Donec vitae facilisis urna. Quisque consectetur arcu ac neque fringilla, quis suscipit lorem suscipit. Praesent volutpat lorem et leo sollicitudin imperdiet. Aliquam nibh mi, egestas ac ornare sit amet, tincidunt eu sem.
+ 

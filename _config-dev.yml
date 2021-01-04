@@ -78,28 +78,28 @@ gems: [jekyll-paginate]
 
 # Navigation
 navigation:
-- title: Home UUS
+- title: Home
   url: /index
-- title: Research UUS
+- title: Research
   url: /research
   sub:
-    - title: Projects POOLIK
+    - title: Projects 
       url: /research/projects 
-    - title: Publications UUS
+    - title: Publications 
       url: /research/publications2/
     - title: Products POLE
       url: /research/products
-- title: News & Events
+- title: News & Blog
   url: /news
   sub:
     - title: News
       url: /news
-    - title: Events POLE
-      url: /events   
-- title: People UUS
+    - title: Blog 
+      url: /blog   
+- title: People 
   url: /people 
 - title: About us
   url: /about/
   sub:
-    - title: Contact UUS
+    - title: Contact 
       url: /about/contact     

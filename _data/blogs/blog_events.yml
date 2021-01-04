@@ -1,0 +1,7 @@
+topic: "new_post"
+topic_id: "red"
+blogs:
+  - title: "events "
+    date: "something"
+    author: "someone"
+    url: "/firstblog"

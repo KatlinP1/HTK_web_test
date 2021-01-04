@@ -1,0 +1,20 @@
+topic: "post"
+topic_id: "post"
+blogs:
+  - title: "something other- uus blogipostitus HTK veebi teemal"
+    date: "01.09.2016 – 31.08.2018"
+    author: "Mari Murakas"
+    image: "img/posts/enrope-kickoff2019.jpg"
+    url: "/firstblog"
+
+  - title: "second blog post"
+    date: "2020-11-01"  
+    author: "someone"
+    image: "https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg"
+    url: "/secondblog" 
+
+  - title: "third blog post"
+    date: "2020"  
+    author: "someone"
+    image: "img/posts/enrope-kickoff2019.jpg"
+    url: "/secondblog"     
