@@ -1,43 +1,44 @@
 ---
-layout: page
-feature-img: "img/sample_feature_img_3.png"
+layout: page-bigger-header
+feature-img: "img/DTIkaanefoto1.jpg"
 title: Centre for Educational Technology
 ---
-<p>Centre for Educational Technology is the research centre of the School of Digital Technology,
- <a href="http://www.tlu.ee"> Tallinn University (TLU)</a>. Centre was established more than 20 years ago and is 
- now one of the leading competency-centres in technology-enhanced learning in Estonia.</p>
 
- <p>Sed risus tortor, molestie sit amet condimentum vel, blandit ac neque. Vestibulum sed erat justo. Proin eu lectus volutpat, semper nulla sit amet, tincidunt turpis. Vestibulum lacus libero, suscipit in gravida sit amet, dictum sit amet sem. Sed sit amet metus purus. 
-     In tempus tempor erat, sit amet feugiat nibh tincidunt et. Sed laoreet lacus orci, posuere porta nisl dapibus quis. Nulla fermentum libero et mi ultrices feugiat. Mauris eu gravida purus, ac venenatis nibh. Integer vitae erat nulla. Sed et leo bibendum, mattis massa sed, tempus urna.
-     Praesent et augue a magna pellentesque elementum. Maecenas consectetur velit sit amet condimentum aliquam. Phasellus lacus magna, tempus vel neque molestie, volutpat vestibulum est. Aliquam nec pretium quam. Quisque dignissim nibh quis purus tincidunt finibus. Nam sit amet ante sem.  
-     Integer posuere maximus turpis, id volutpat lorem elementum vel. Praesent et enim hendrerit, venenatis metus nec, accumsan elit. Ut cursus, sapien vitae bibendum aliquam, orci sem malesuada libero, vel rutrum leo ligula id felis.</p>
+<div class="row">
+  <div class="col col-12 col-md-8">
+      <h1 class="mt-3">What we do?</h1>
+      <p class="text-justify">Centre for Educational Technology is the research centre of the School of Digital Technology, <a href="http://www.tlu.ee"> Tallinn University (TLU)</a>. 
+        Centre was established more than 20 years ago and is now one of the leading competency-centres in technology-enhanced learning in Estonia.&nbsp;</p>
+      <h3>Mingi pealkiri</h3>
+      <p class="text-justify">Sed risus tortor, molestie sit amet condimentum vel, blandit ac neque. Vestibulum sed erat justo. 
+        Proin eu lectus volutpat, semper nulla sit amet, tincidunt turpis. Vestibulum lacus libero, suscipit in gravida sit amet, dictum sit amet sem. 
+        Sed sit amet metus purus. In tempus tempor erat, sit amet feugiat nibh tincidunt et. Sed laoreet lacus orci, posuere porta nisl dapibus quis. 
+        Nulla fermentum libero et mi ultrices feugiat.Sed risus tortor, molestie sit amet condimentum vel, blandit ac neque. Vestibulum sed erat justo. Proin eu lectus volutpat, semper nulla sit amet, tincidunt turpis. Vestibulum lacus libero, suscipit in gravida sit amet, dictum sit amet sem. Sed sit amet metus purus. 
+        In tempus tempor erat, sit amet feugiat nibh tincidunt et. Sed laoreet lacus orci, posuere porta nisl dapibus quis. Nulla fermentum libero et mi ultrices feugiat. Mauris eu gravida purus, ac venenatis nibh. Integer vitae erat nulla. Sed et leo bibendum, mattis massa sed, tempus urna.
+        Praesent et augue a magna pellentesque elementum.&nbsp;</p>
+  </div>
+  <!--News container-->
+  <div class="col col-12 col-md-3 offset-md-1">
+      <div class="pb-3">
+          <h2 class="text-left mt-3">Latest news</h2>
+      </div>
+      {% for post in site.posts limit: 3 %}
+      <div class="main-page-news mb-3">
+          <div class="main-page-news-image-container"><img src="{{ site.baseurl }}/{{ post.feature-img }}"></div>
+          <h6><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h6>
+          <p class="mt-1 mb-2">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </div>
+      {% endfor %}    
+      <div class="row">
+          <div class="col col-4 mr-0 offset-4 col-md-6 offset-md-3">
+            <a href="/news/index.html"><strong>ALL NEWS ...</strong></a>
+            <!-- class="btn btn-primary btn-sm text-center center-block" type="button" -->
+          </div>
+      </div>
+  </div>
+</div>
 
-     <div class="container">
-        <div class="row">
-          <div class="col ">
-                <b>NEWS:</b>
-                {% for post in site.posts limit: 2 %}
-                <div class="mainpage_list">
-                    <p>
-                      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </p>
-                    <p class="meta"> {{ post.date | date: "%B %-d, %Y" }} </p>
-                </div>
-                {% endfor %}         
-          </div>
-          <div class="col">
-            <b>BLOG:</b>
-            {% for hash in site.data.blogs %}
-            {% assign blog_sub = hash[1] %}
-            {% for blog in  blog_sub.blogs limit:1 %}
-                  <div class="mainpage_list">
-                    <p><a href="{{blog.url}}">{{blog.title}} </a></p>
-                    <p> {{blog.date | date: "%B %-d, %Y"}} </p>
-                    <p>  {{blog.author}}</p>
-                  </div>
-                {% endfor %} 
-            {% endfor %} 
-          </div>
-          </div>
-        </div>     
+
+
+ 
 

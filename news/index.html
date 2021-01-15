@@ -1,8 +1,72 @@
 ---
-layout: default
+layout: page-small-header
 title: News
+feature-img: "img/code-bg.jpg"
 ---
+<!--News heading-->
+<div class="container">
+  <div class="row">
+      <div class="col col-md-10 offset-md-1">
+          <h1 class="text-center mt-3">News</h1>
+          <div class="divider-center mt-2 mb-2">
+              <div class="divider-line-1"></div>
+              <div class="divider-line-2"></div>
+          </div>
+          <div></div>
+      </div>
+  </div>
+</div>
+<!--Project container-->
+<div class="projects-clean">
+  <div class="container">
+    {% for post in paginator.posts %}
+      <div class="intro"></div>
+      <div class="row projects">
+          <div class="col col-12 col-md-10 item offset-md-1" style="border-bottom: 1px solid #6bcaba;">
+            {% if post.feature-img %}
+            <img class="img-fluid" src="{{ site.baseurl }}/{{ post.feature-img }}">
+            {% endif %} 
+              <h3 class="text-left name">
+                <a href="{{ post.url | prepend: site.baseurl }}"></a>{{ post.title }}
+              </h3>
+              <p class="text-left description">{{ post.date | date: "%B %-d, %Y" }}</p>
+              <p class="text-left description" style="text-align: justify! important;color: #212529;">
+                Tallinn University is one of the partners in the project 
+                ENROPE - European Network for Junior Researchers in the Field of Plurilingualism and Education, coordinated by the Humboldt University of Berlin. 
+                The Centre for Educational Technology has the leading role in developing an Online Platform for researcher collaboration.
 
+                  {{ post.excerpt }}
+              </p>
+<!--Button to read full news-->
+              <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary text-left mt-5 mb-3">Continue reading</a>
+            </div>
+          </div>
+      {% endfor %} 
+  </div>
+
+<!--Buttons for next and prev. page-->
+  {% if paginator.total_pages > 1 %}
+  <div class="col text-center">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-primary text-center mt-5 mb-1" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme.str_prev }}
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-primary text-center mt-5 mb-1" >
+      {{ site.theme.str_next }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+
+
+
+
+<!--  VANA VERSIOON 
 <div class="home">
 <ul>
   {% if site.theme.header_text %}
@@ -63,5 +127,5 @@ title: News
 
 </ul>
 </div>
-
+-->
 

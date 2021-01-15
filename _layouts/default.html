@@ -1,11 +1,21 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html>
+
   {% include head.html %}
-  <body>
-    {% include header.html %}
-    <div class="content">
-      {{ content }}
-    </div>
+
+<body>
+
+  {% include header.html %}
+
+    {{ content }}
+    
     {% include footer.html %}
-  </body>
+
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/clean-blog.js"></script>
+    <script src="/js/custom.js"></script>
+</body>
+
 </html>
+

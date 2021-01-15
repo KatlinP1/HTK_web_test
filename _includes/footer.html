@@ -1,27 +1,23 @@
-{% if site.theme.katex %}
-<script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
-{% endif %}
-
-{% if site.theme.footer_text %}
-<footer class="site-footer">
-	<p class="text">{{ site.theme.footer_text }}</p>
-	<div>
-		<div class="footer-row">
-			<p>VISITING ADDRESS</p>
-			<p>Tallinn University</p>
-			<p>Centre for Educational Technology</p>
-			<p>Narva road 29</p>
-			<p>Astra building (3rd floor)</p>
+<footer>
+	<div class="row">
+		<div class="col-sm-6 col-md-4 footer-navigation">
+			<h3><a href="#"><strong>Centre for Educational Technology</strong></a></h3>
+			<p>Tallinn University - Narva road 29 - Astra building (3rd floor)</p>
+			<p class="company-name">Centre for Educational Technology © 2021</p>
 		</div>
-		<div class="footer-row">
-			<p>CONTACT</p>
-			<p>Phone- 12345678</p>
-			<p>Email- mail@mail.com</p>
-
+		<div class="col-sm-6 col-md-4 footer-contacts">
+			<div><i class="fa fa-phone footer-contacts-icon"></i>
+				<p class="footer-center-info email text-left"> +1 555 123456</p>
+			</div>
+			<div><i class="fa fa-envelope footer-contacts-icon"></i>
+				<p> <a href="#" target="_blank">mail@mail.com</a></p>
+			</div>
 		</div>
-		<div class="footer-row">
-			<p>LOGO</p>
+		<div class="clearfix"></div>
+		<div class="col-md-4 footer-about">
+			<h4 class="mt-3">About the company</h4>
+			<p>Centre for Educational Technology is the research centre of the School of Digital Technology, Tallinn University (TLU).</p>
+			<div class="social-links social-icons"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-linkedin"></i></a><a href="#"><i class="fa fa-github"></i></a></div>
 		</div>
 	</div>
 </footer>
-{% endif %}

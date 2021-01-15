@@ -1,38 +1,66 @@
 ---
-layout: page
+layout: page-small-header
 title: Projects
 permalink: /research/projects/
-feature-img: "img/sample_feature_img_3.png"
+feature-img: "img/code-bg.jpg"
 ---
-<div class="projects_nav">
-{% for project in site.data.projects %}
-{% assign project_topic = project[1] %}
-    <a onclick="showProject('{{ project_topic.topic_id }}')" style="cursor:pointer;">{{project_topic.topic}}</a>
-{% endfor %}
+<!--Title + Project navigation -->
+<div class="row">
+  <div class="col">
+    <h1 class="text-center mt-3">Projects</h1>
+      <div class="divider-center mt-2 mb-2">
+            <div class="divider-line-1"></div>
+            <div class="divider-line-2"></div>
+      </div>
+      <div class="mt-5">
+          <div class="row" style="height: initial;margin-bottom: 30px;">
+          {% for project in site.data.projects %}
+          {% assign project_topic = project[1] %}
+            <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
+            <a onclick="showProject('{{ project_topic.topic_id }}')" style="color: #4b8d89; cursor:pointer;">{{project_topic.topic}}</a>
+            </div>
+          {% endfor %}  
+          </div>
+      </div>
+  </div>
 </div>
-
-<div class="container">
-  <div class="row">
-    {% for hash in site.data.projects %}
-    {% assign project_sub = hash[1] %}
-    {% for project in project_sub.projects %}
-<div class="col-md-6 project-container topic-{{project_sub.topic_id}} , project_info">
-    <div class="row">
-        <div class="col-md-6 project_short_desc" >
-        <h5> <a href="{{project.url}}">{{project.title}} </a></h5>
-        <p>{{project.period}}</p>
-        <p>{{project.program}}</p> 
-        <p>{{project.members}}</p>
-        </div>
-        <div class="col-md-6">
-            <img src="{{project.image}}">
-        </div>
+    
+<!--Projects content-->
+<div class="projects-horizontal">
+  <div class="container">
+    <div class="row projects">
+      {% for hash in site.data.projects %}
+      {% assign project_sub = hash[1] %}
+      {% for project in project_sub.projects %}
+          <div class="col-sm-6 item project-container topic-{{project_sub.topic_id}}">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                    <a href="#">{% if project.image %} 
+                      <img class="img-fluid" src={% if project.image contains "://" %} 
+                      "{{project.image}}"
+                      {% else %}
+                      "{{ site.baseurl }}/{{project.image}}" 
+                      {% endif %}>
+                      {% endif %}
+                    </a>
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                    <a href="{{project.url}}" style="color: #4b8d89;">{{project.title}}</a>
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">{{project.period}}</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">{{project.program}}</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">{{project.members}}</p>
+                </div>
+            </div>
+          </div>
+      {% endfor %}
+      {% endfor %}
     </div>
-</div>
-    {% endfor %}
-    {% endfor %}
+  </div>
 </div>
 
+<!--Function to show projects-->
 <script>
   function showProject(topic_id){
     hideProjectElements();
@@ -51,5 +79,5 @@ feature-img: "img/sample_feature_img_3.png"
         elems[i].style.display = 'none';
     }
   }
-  
 </script>
+  

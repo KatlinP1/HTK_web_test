@@ -1,0 +1,95 @@
+@media only screen and (min-width:768px) {
+  header.masthead .page-heading h1, header.masthead .site-heading h1 {
+    font-size: 55px;
+  }
+}
+
+@media (min-width: 992px) {
+  #mainNav.is-fixed {
+    background-color: #ffffffeb !important;
+    border-bottom: 5px #6bcaba solid;
+    top: -92px;
+  }
+}
+
+#mainNav .navbar-brand {
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+
+.main-page-news {
+  border-bottom: 1px #6bcaba solid;
+}
+
+.main-page-news-image-container {
+}
+
+.main-page-news-image-container > img {
+  width: 100%;
+  padding-bottom: 5px;
+}
+
+:root {
+}
+
+body {
+}
+
+.btn.btn-primary {
+  background-color: #4B8D89;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #6BCABA!important;
+  border: 1px #6BCABA solid!important;
+}
+
+.divider-center .divider-line-1 {
+  width: 100%;
+  height: 2px;
+  background: #dedede;
+  position: absolute;
+  z-index: 10;
+}
+
+.divider-center {
+  position: relative;
+}
+
+.divider-center .divider-line-2 {
+  width: 100px;
+  background: #6bcaba;
+  margin: 0 auto;
+  z-index: 11;
+  position: absolute;
+  height: 2px;
+  left: 50%;
+  margin-left: -50px;
+}
+
+.post-content img{
+  max-width: 100%;
+}
+
+a{
+  color: #4B8D89;
+}
+a:hover{
+  transition: 0.3s;
+  color: #6bcaba;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-top: 20px;
+}
+nav.navbar ul.nav li.dropdown .dropdown-menu{
+  margin-top: -5px!important;
+}
+
+.active{
+  color: #dedede!important;
+}

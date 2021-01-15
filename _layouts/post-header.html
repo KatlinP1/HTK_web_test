@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<header class="masthead" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}');">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-lg-8 mx-auto">
+                <div class="post-heading">
+                    <h1 class="text-center" style="font-size: 45px;">{{ page.title }}</h1>
+                    <span class="text-center meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    {{ content }}
+</div>

@@ -1,0 +1,25 @@
+I"™<!--Heading-->
+<div class="row">
+    <div class="col col-md-10 offset-md-1">
+        <h1 class="text-center mt-3">404 Error</h1>
+            <div class="divider-center mt-2 mb-2">
+                <div class="divider-line-1"></div>
+                <div class="divider-line-2"></div>
+            </div>
+<!--Text-->        
+        <a>
+            <img class="img-fluid center" src="/img/error.png" alt="Error picture" />
+        </a>
+        <p style="text-align: center;">
+            <strong>Sorry, the requested page wasn't found on the server, isn't available or was loading incorrectly.</strong>
+        </p>
+        <p style="text-align: center;">Here are some helpful links:</p>
+        <p style="text-align: center;"><strong>
+            <a href="/">HOME</a>
+        </strong></p>
+        <p style="text-align: center;"><strong>
+            <a href="/about/contact"> CONTACT</a>
+        </strong></p>
+</div>
+</div>
+:ET

@@ -83,6 +83,8 @@ navigation:
 - title: Research
   url: /research
   sub:
+    - title: Research themes
+      url: /research
     - title: Projects 
       url: /research/projects 
     - title: Publications 
@@ -101,5 +103,7 @@ navigation:
 - title: About us
   url: /about/
   sub:
+    - title: About us
+      url: /about
     - title: Contact 
       url: /about/contact     

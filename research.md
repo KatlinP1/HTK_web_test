@@ -1,31 +1,53 @@
 ---
-layout: page
+layout: page-small-header
 title: Research
 permalink: /research/
-feature-img: "img/sample_feature_img_3.png"
+feature-img: "img/code-bg.jpg"
 ---
-<div id="p">
-<p>Interdiscplinary research activities of the Centre for Educational Technology focuses on theoretical and practical challenges related to educational uses of technologies for teaching and learning in formal and informal educational settings. Projects and activities are alinged around following research strands:
-</p>
+<!--Title + introduction-->
+<div class="container">
+    <div class="row">
+         <div class="col col-md-10 offset-md-1">
+            <h1 class="text-center mt-3">Research</h1>
+             <div class="divider-center mt-2 mb-2">
+                <div class="divider-line-1"></div>
+                <div class="divider-line-2"></div>
+            </div>
+        <p style="text-align: justify;" id="p">Interdiscplinary research activities of the Centre for Educational Technology focuses on theoretical and practical challenges related to educational uses of technologies for teaching and learning in formal and informal educational settings. Projects and activities are alinged around following research strands:</p>
 <div>
 
-<div class="research_nav">
-    <div onclick="showElement(1)"><a href="#steam_research">STE(A)M education and Citizen science</a></div>
-    <div onclick="showElement(2)"><a href="#digitaltransform_research">Digital transformation of the organizations</a></div>
-    <div onclick="showElement(3)"><a href="#digitalcomp_research">Digital competences</a></div>
-    <div onclick="showElement(4)"><a href="#learning_research">Learning analytics</a></div>
-    <div onclick="showElement(5)"><a href="#education_research">Open Educational Resources</a></div>
-    <div onclick="showElement(6)"><a href="#game_research">Gamified learning</a></div>
+<!--Navigation menu of research topics-->
+<div class="research_nav" class="row" style="height: initial;margin-bottom: 30px;" >
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(1)">
+        <a href="#steam_research" style="color: #4b8d89;" class="research-link link-1" >STE(A)M education and Citizen science</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(2)" >
+        <a href="#digitaltransform_research" style="color: #4b8d89;" class="research-link link-2" >Digital transformation of the organizations</a></div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(3)">
+        <a href="#digitalcomp_research" style="color: #4b8d89;" class="research-link link-3">Digital competences</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(4)">
+        <a href="#learning_research" style="color: #4b8d89;" class="research-link link-4">Learning analytics</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(5)">
+        <a href="#education_research" style="color: #4b8d89;" class="research-link link-5">Open Educational Resources</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(6)">
+        <a href="#game_research" style="color: #4b8d89;" class="research-link link-6">Gamified learning</a>
+    </div>
 </div>
 
+<!--Navigation function-->
 <script>
   function showElement(id){
     hideElements();
+    makeLinkActive(id);
     var id = "p"+id;
     var elem = document.getElementById(id);
     if(elem!==null){
       elem.style.display = 'block';
     }
+    
   }
   function hideElements(){
     var elems = document.getElementsByClassName('research-elem');
@@ -35,12 +57,27 @@ feature-img: "img/sample_feature_img_3.png"
     }
   }
 
+  function makeLinkActive(topicId){ 
+
+    var elems = document.getElementsByClassName('research-link active');
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].classList.remove("active");
+    }
+
+    elems = document.getElementsByClassName('research-link link-'+topicId); 
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].classList.add("active");
+    }
+     
+  }
+
 </script>
 
-
+<!--Short descriptsions about research topics-->
+<!--STE(A)M education and Citizen science-->
 <div id="p1" class="research-elem">
-<h2>STE(A)M education and Citizen science</h2>
-<p>Research group aims to enhance educational practices of formal and informal inquiry learning with the location-and sensor-based technologies. Goal is to investigate smart city approaches where learning services and the co-creation of learning are part of the smart city as a socio-technical environment. Smart classroom activities and learning outside the classroom supporting inquiry-based learning by using sensor technologies is seen as part of that STEM movement in the design of the learning activities. Improving STE(A)M education is considered important to enhance the learners' design thinking skills and digital competences through technology innovation projects.</p>
+<h2 class="mt-5">STE(A)M education and Citizen science</h2>
+<p style="text-align: justify;">Research group aims to enhance educational practices of formal and informal inquiry learning with the location-and sensor-based technologies. Goal is to investigate smart city approaches where learning services and the co-creation of learning are part of the smart city as a socio-technical environment. Smart classroom activities and learning outside the classroom supporting inquiry-based learning by using sensor technologies is seen as part of that STEM movement in the design of the learning activities. Improving STE(A)M education is considered important to enhance the learners' design thinking skills and digital competences through technology innovation projects.</p>
     <strong>Related ongoing projects:</strong>
     <li>
         <strong>SmartZoos</strong>-  Funded by Interreg- Baltic project to develop application for outdoor learning in the zoos context.<br>Team: Terje Väljataga, Priit Tammets, Gerti Pishtari, Pjotr Savitski, Kadri Mettis
@@ -53,9 +90,10 @@ feature-img: "img/sample_feature_img_3.png"
     </li>
 </div>
 
+<!--Digital transformation of the organizations-->
 <div id="p2" class="research-elem">
-<h2 id="digitaltransform_research">Digital transformation of the organizations</h2>
-<p>Research group aims to investigate the digital transformation at the organizations and how it can be explained and influenced. Also group focuses on understanding individual and organisational level learning processes and cross-institutional knowledge creation opportunities.</p>
+<h2 id="digitaltransform_research" class="mt-5">Digital transformation of the organizations</h2>
+<p style="text-align: justify;">Research group aims to investigate the digital transformation at the organizations and how it can be explained and influenced. Also group focuses on understanding individual and organisational level learning processes and cross-institutional knowledge creation opportunities.</p>
     <strong>Related ongoing projects:</strong>
     <li>
         <strong>Digital Mirror</strong>- in collaboration with Ministry of Education and Science to develop framework and tool for supporting self-evaluation of schools' digital maturity. <br>Team: Mart Laanpere, Romil Rõbtšenkov, Kai Pata.
@@ -65,9 +103,10 @@ feature-img: "img/sample_feature_img_3.png"
     </li>
 </div>
 
+<!--Digital competences-->
 <div id="p3" class="research-elem">
-<h2 id="digitalcomp_research">Digital competences</h2>
-<p>Research group aims to investigate the methodologies for assessing digital competences and develop framework and tool for evaluating domain-specific digital competences. Group is involved in different national and international research- and policy-level intiatives and specific focus of assessing digital competences is on teacher education.</p>
+<h2 id="digitalcomp_research" class="mt-5">Digital competences</h2>
+<p style="text-align: justify;">Research group aims to investigate the methodologies for assessing digital competences and develop framework and tool for evaluating domain-specific digital competences. Group is involved in different national and international research- and policy-level intiatives and specific focus of assessing digital competences is on teacher education.</p>
 <strong>Related ongoing projects:</strong>
     <li>
         <strong>DigCompEdu</strong>-funded by EC JRC program. Aim is to pilot DigCompEdu framework with Estonian teachers. TLU is also contributing to the development of methodology and supporting tool. <br>Team: Mart Laanpere, Linda Helene Sillat, Kairit Tammets
@@ -80,9 +119,10 @@ feature-img: "img/sample_feature_img_3.png"
     </li>
 </div>
 
+<!--Learning analytics-->
 <div id="p4" class="research-elem">
-<h2 id="learning_research">Learning analytics</h2> 
-<p>Group is tightly integrated with other research groups to investigate possibilities for implementing evidence-based decision making in the technology-enhanced learning research and practice. The focus is on LA infrastructure, development of LA tools and also LA-driven processes in classroom and organisational level.
+<h2 id="learning_research" class="mt-5">Learning analytics</h2> 
+<p style="text-align: justify;">Group is tightly integrated with other research groups to investigate possibilities for implementing evidence-based decision making in the technology-enhanced learning research and practice. The focus is on LA infrastructure, development of LA tools and also LA-driven processes in classroom and organisational level.
 </p>
     <li>
         <strong>Educational Data Pilots for Tallinn University: Demonstrating the Practical Benefits for Multiple Stakeholders</strong> - Funded by TLU. <br> Team: Kairit Tammets, Adolfo Ruiz Calleja, Tobias Ley, Maria Jesus Rodriguez Triana, Luis Pablo Prieto, Terje Väljataga, Gerti Pishtari, Shashi Kant Shankar
@@ -95,19 +135,20 @@ feature-img: "img/sample_feature_img_3.png"
     </li>
 </div>
 
+<!--Open Educational Resources-->
 <div id="p5" class="research-elem">
-<h2 id="education_research">Open Educational Resources</h2>
-<p>Group aims to design the open education ecosystem of learning resources and the accompanying digital services at Estonia with accompanying service models. Research goals are related also with the understanding how open educational resources are used in the classroom and how these materials influence the teaching and learning process and learning outcomes.</p>
+<h2 id="education_research" class="mt-5">Open Educational Resources</h2>
+<p style="text-align: justify;">Group aims to design the open education ecosystem of learning resources and the accompanying digital services at Estonia with accompanying service models. Research goals are related also with the understanding how open educational resources are used in the classroom and how these materials influence the teaching and learning process and learning outcomes.</p>
     <strong>Related ongoing projects:</strong>
     <li>
         <strong>Digital Learning Resources</strong> - Funded by Ministry of Education and Science to expand digital learning in higher education in math, natural scinece, arts and social science.<br>Team: Mart Laanpere, Kairit Tammets, Tago Sarapuu, Jüri Kurvits, Lumi Kristin Orav, Mare Oja, Priit Tammets, Sander Aido, Pjotr Savitski
     </li> 
 </div>
 
-
+<!--Gamified learning -->
 <div id="p6" class="research-elem">
-<h2 id="game_research" >Gamified learning</h2>
-The team works on serious game concept application, as well as gamifying learning.
+<h2 id="game_research" class="mt-5">Gamified learning</h2>
+<p style="text-align: justify;">The team works on serious game concept application, as well as gamifying learning.</p>
     <li>
         <strong>ALIEN</strong>- Funded by Erasmus+ to promote active learning in engineering education
         <br>Team: Martin Sillaots, Triinu Jesmin
@@ -123,7 +164,7 @@ The team works on serious game concept application, as well as gamifying learnin
     </li>
 </div>
 
-
 <script>
 showElement(1);
 </script>
+
