@@ -14,42 +14,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique sagittis
 
 
 
-{% comment %}
-<div class="container">
-<div class="row">
-  <div class="col">
-    <b>Project Period:</b>
-    <p>01.05.2016 – 30.04.2017</p>
-  </div>
-  <div class="col">
-    <b>Funded By:</b>
-    <p>EC, COST</p>
-  </div>
-  <div class="col">
-    <b>Project Members:</b>
-    <p>David Lamas, Sonia Sousa, Ilja Šmorgun</p>
-  </div>
-  <div class="col">
-    <b>Project Partners:</b>
-    <p>mingi asi,  mingi asi</p>
-  </div>
-  </div>
-</div>
-{% endcomment %}
-
 **Project overview**
 
 Pellentesque vel aliquet quam. Integer non feugiat felis. Vestibulum condimentum purus et dui tincidunt, pharetra vulputate ligula malesuada. Integer feugiat justo sit amet nulla dignissim, vitae dapibus mi ultricies. Cras maximus nulla id suscipit ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-<ul>
-    <li>mingi asi</li>
-    <li>mingi asi</li>
-    <li>mingi asi</li>
-    <li>mingi asi</li>
-</ul>
+
+1. mingi asi
+2. mingi asi
+3. mingi asi 
 
 **Publications**
-<ol>
-    <li>mingi asi</li>
-    <li>mingi asi</li>
-    <li>mingi asi</li>
-</ol>
+- mingi asi
+- mingi asi
+- mingi asi
+

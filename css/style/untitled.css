@@ -1,3 +1,21 @@
+body{
+  font-size: 17px;
+  font-family: "Times New Roman",Times,Georgia,serif;
+  /* font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;*/
+  /*font-family: "MinionPro";*/
+}
+
+p, li {
+  line-height: 1.7;
+  color: #3c4445;
+
+}
+/*TLÜ stiili järgi tavaline teks arial pealkiri times new roman */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman",Times,Georgia,serif;
+  /*font-family: "MinionPro";*/
+}
+
 @media only screen and (min-width:768px) {
   header.masthead .page-heading h1, header.masthead .site-heading h1 {
     font-size: 55px;
@@ -93,3 +111,76 @@ nav.navbar ul.nav li.dropdown .dropdown-menu{
 .active{
   color: #dedede!important;
 }
+
+ 
+/* Style about "Header1" */
+.nav-link {
+  font-size: 18px;
+  color: #3c3c3c!important;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.navbar {
+  border-bottom: 5px #6bcaba solid;
+}
+
+/*slider*/
+.swiper-slide h1{
+  color: #ffffff;
+  font-family: Oswald,sans-serif;
+  text-transform: uppercase;
+  display: block;
+}
+.swiper-slide p{
+  padding-top: 2px;
+  display: block;
+}
+
+/*footer disain*/
+.footer-navigation p{
+  color: #ffffff;
+  font: 14px sans-serif;
+  margin: 15px 0;
+}
+
+.footer-navigation h4{
+  color: #3c4445;
+  font: bold 14px sans-serif;
+  padding-top: 5px;
+}
+
+.footer-about h4{
+  color: #3c4445;
+  font: bold 14px sans-serif;
+  padding-top: 30px;
+
+}
+
+.footer-about .company-name{
+  text-align: center;
+  padding-top: 130px;
+  color: #3c4445;
+}
+
+/*news picture*/
+.img-fluid-innews{
+  max-height: 100px;
+  margin: 15px;
+}
+
+
+table{
+  width: 100%;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+table td , th {
+  border:1px solid #dee2e6;
+  padding: .75rem;
+}
+

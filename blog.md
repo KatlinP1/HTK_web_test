@@ -1,3 +1,4 @@
+<!-- BLOG- is not used (right now)- kaustas data on kaust "blogs",mis on ka selle lehega seotud...... -->
 ---
 layout: page-small-header
 title: Blog

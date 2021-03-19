@@ -1,0 +1,108 @@
+topic: "Research"
+topic_id: "research"
+peoples:
+  - name: "Mart Laanpere"
+    worktitle: "Senior Researcher of Educational technology"
+    email: "Mart.Laanpere@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Mart_Laanpere/est"
+
+  - name: "Kai Pata"
+    worktitle: "Senior Researcher and associate professor of Educational technology"
+    email: "Kai.Pata@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Kai_Pata/est"
+
+  - name: "Kairit Tammets"
+    worktitle: "Senior Researcher of Educational technology"
+    email: "Kairit.Tammets@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Kairit_Tammets/est"
+
+  - name: "Terje Väljataga"
+    worktitle: "Senior Researcher of Educational technology"
+    email: "Terje.Valjataga@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Terje_V%C3%A4ljataga/est"
+
+  - name: "Hans Põldoja"
+    worktitle: "Associate professor, head of the studies"
+    email: "Hans.Poldoja@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/hanspoldoja/est"
+
+  - name: "Martin Sillaots"
+    worktitle: "Associate professor"
+    email: "Martin.Sillaots@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Martin_Sillaots/est"
+
+  - name: "Maria Jesus Rodriguez Triana"
+    worktitle: "Senior Researcher of Educational data mining"
+    email: "Maria_jesus.Rodriguez_triana@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Maria%20jesus_Rodriguez%20triana/est"
+
+  - name: "Vladimir Tomberg"
+    worktitle: "Senior Researcher and Associate Professor"
+    email: "vladimir.tomberg@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Vladimir_Tomberg/est"
+
+  - name: "Triinu Jesmin"
+    worktitle: "Lecturer, junior researcher"
+    email: "Triinu.Jesmin@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Triinu_Jesmin/est"
+
+  - name: "Jaanika Hirv"
+    worktitle: "Analyst"
+    email: "(currently on leave)"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Jaanika_Hirv-Biene/est"
+
+  - name: "Linda Helene Sillat"
+    worktitle: "Junior researcher"
+    email: "sillat@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Linda%20Helene_Sillat/est"
+
+  - name: "James Sunney Quaicoe"
+    worktitle: "Junior researcher"
+    email: "james_sunney.quaicoe@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/James%20Sunney_Quaicoe/est"
+
+  - name: "Gerti Pishtari"
+    worktitle: "Junior researcher (PhD student)"
+    email: "Gerti.Pishtari@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Gerti_Pishtari/est"
+
+  - name: "Eka Jeladze"
+    worktitle: "Junior researcher (PhD student)"
+    email: "Eka.Jeladze@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Eka_Jeladze/est"
+
+  - name: "Shashi Kant Shankar"
+    worktitle: "PhD student"
+    email: "shashik@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Shashi%20Kant_Shankar/est"
+
+  - name: "Maia Lust"
+    worktitle: "Junior researcher (PhD student)"
+    email: "maia.lust@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Maia_Lust/est"
+
+  - name: "Pankaj Chejara"
+    worktitle: "Web Developer (PhD student)"
+    email: "pankaj.chejara@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Pankaj_Chejara/est"
+
+                                      
+
+

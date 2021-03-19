@@ -1,0 +1,21 @@
+topic: "Administrative"
+topic_id: "admin"
+peoples:
+  - name: "Kairit Tammets (Ph.D)"
+    worktitle: "Head of the centre for educational technology"
+    email: "Kairit.Tammets@tlu.ee"
+    phone: "+372 640 9355"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Kairit_Tammets/est"
+
+  - name: "Anet Tammets"
+    worktitle: "Projects Coordinator"
+    email: "Anet.Tammets@tlu.ee"
+    phone: "+372 640 9355"
+    image: "/img/people/empty-profile.png"
+
+  - name: "Ramune Tuulik"
+    worktitle: "Assistant"
+    email: "Ramune.Tuulik@tlu.ee"
+    phone: "+372 640 9355"
+    image: "/img/people/empty-profile.png"   

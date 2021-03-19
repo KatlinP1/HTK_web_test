@@ -88,16 +88,9 @@ navigation:
     - title: Projects 
       url: /research/projects 
     - title: Publications 
-      url: /research/publications2/
-    - title: Products POLE
-      url: /research/products
-- title: News & Blog
+      url: /research/publications/
+- title: News
   url: /news
-  sub:
-    - title: News
-      url: /news
-    - title: Blog 
-      url: /blog   
 - title: People 
   url: /people 
 - title: About us

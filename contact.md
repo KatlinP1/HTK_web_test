@@ -22,18 +22,18 @@ feature-img: "img/sample_feature_img_2.png"
                 <div class="col col-12">
                     <h5 class="mt-4 mb-3 pt-4"><strong>Visiting address:</strong></h5>
                     <p class="mt-2 mb-2" style="margin: 0px;">Centre for Educational Technology (School of Digital Technologies)</p>
-                    <p class="mt-2 mb-2" style="margin: 0px;">Tallinn University (Astra Building)</p>
+                    <p class="mt-2 mb-2" style="margin: 0px;">Tallinn University (Astra Building -3rd floor)</p>
                     <p class="mt-2 mb-2" style="margin: 0px;">Narva road 29</p>
                     <p class="mt-2 mb-2" style="margin: 0px;">10120, Tallinn</p>
                     <p class="mt-2 mb-2" style="margin: 0px;">ESTONIA</p>
                 </div>
                 <div class="col col-12">
-                    <h5 class="mt-4 mb-3"><strong>Address:</strong></h5>
-                    <p class="mt-2 mb-2" style="margin: 0px;">Haridustehnoloogia Keskus (Digitehnoloogiate instituut)</p>
-                    <p class="mt-2 mb-2" style="margin: 0px;">Tallinna Ülikool (Astra maja)</p>
-                    <p class="mt-2 mb-2" style="margin: 0px;">Narva mnt 29</p>                        
+                    <h5 class="mt-4 mb-3"><strong>Postal address:</strong></h5>
+                    <p class="mt-2 mb-2" style="margin: 0px;">Haridustehnoloogia Keskus / Centre for Educational Technology</p>
+                    <p class="mt-2 mb-2" style="margin: 0px;">Tallinna Ülikool / Tallinn University</p>
+                    <p class="mt-2 mb-2" style="margin: 0px;">Narva mnt 25</p>                        
                     <p class="mt-2 mb-2" style="margin: 0px;">10120, Tallinn</p>
-                    <p class="mt-2 mb-2" style="margin: 0px;">EESTI</p>
+                    <p class="mt-2 mb-2" style="margin: 0px;">EESTI / ESTONIA </p>
                 </div>
             </div>
         </div>

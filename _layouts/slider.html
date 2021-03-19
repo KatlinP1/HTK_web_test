@@ -1,0 +1,94 @@
+---
+layout: default
+---
+<!-- Slider main container -->
+<!-- Swiper -->
+<div class="swiper-container">
+<div class="swiper-wrapper">
+    <!-- <div class="swiper-slide" style="background-image:url(https://cdn.pixabay.com/photo/2020/09/29/23/38/team-5614157__480.png);">Slide 1</div> -->
+    <div class="swiper-slide" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}');">
+        <div><h1>Centre for Educational Technology</h1></div>
+    </div>
+    <div class="swiper-slide" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img3 }}');"></div>
+    <div class="swiper-slide" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img2 }}');"></div>
+    <!--
+    <div class="swiper-slide" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img2 }}');"> <h1>Slide 4</h1></div>
+    -->
+</div>
+<!-- Add Pagination -->
+<div class="swiper-pagination"></div>
+
+<!-- Add Arrows -->
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+</div>
+
+
+<div class="container">
+    {{ content }}
+</div>
+
+
+<!--Swiper script-->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<script> 
+const swiper = new Swiper('.swiper-container', {
+        loop: true,
+        autoplay: {
+            delay: 4500,
+            disableOnInteraction: false,
+        },
+        // If we need pagination
+        pagination: {
+            el: '.swiper-pagination',
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    });
+</script>
+
+<!-- Swiper style-->
+<style>
+.swiper-container {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 60px;
+}
+.swiper-slide{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.swiper-slide {
+      text-align: center;
+      font-size: 18px;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #4B8D89;
+}
+
+.swiper-pagination-bullet-active{
+    background: #4B8D89;
+}
+
+
+</style>

@@ -1,0 +1,38 @@
+<div>
+    <nav class="navbar navbar-light navbar-expand-md navigation-clean" >
+        <div class="container">
+            <a class="navbar-brand" href="/"><img src="/img/uusDigitehnoloogiate%20instituut-logo-eng.png" width="350px"></a>
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div
+                class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav ml-auto">
+
+                    {% for link in site.navigation %}
+			        {% assign current = nil %}
+
+                    {% if link.sub != null %}
+                    
+                    <li class="dropdown nav-item"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                        <div class="dropdown-menu" role="menu">
+                            {% for sub in link.sub %}
+                            <a class="dropdown-item" role="presentation" href="{{ site.baseurl }}{{ sub.url }}">{{ sub.title }}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {% else %}
+				
+				        {% if page.url contains link.url %}
+					        {% assign current = 'current' %}
+				        {% endif %}
+
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                    </li>
+                    {% endif %}
+			{% endfor %}
+                    
+                </ul>
+        </div>
+</div>
+</nav>
+</div>

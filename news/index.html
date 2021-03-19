@@ -26,17 +26,11 @@ feature-img: "img/code-bg.jpg"
             {% if post.feature-img %}
             <img class="img-fluid" src="{{ site.baseurl }}/{{ post.feature-img }}">
             {% endif %} 
-              <h3 class="text-left name">
+              <h3 class="text-center name">
                 <a href="{{ post.url | prepend: site.baseurl }}"></a>{{ post.title }}
               </h3>
-              <p class="text-left description">{{ post.date | date: "%B %-d, %Y" }}</p>
-              <p class="text-left description" style="text-align: justify! important;color: #212529;">
-                Tallinn University is one of the partners in the project 
-                ENROPE - European Network for Junior Researchers in the Field of Plurilingualism and Education, coordinated by the Humboldt University of Berlin. 
-                The Centre for Educational Technology has the leading role in developing an Online Platform for researcher collaboration.
-
-                  {{ post.excerpt }}
-              </p>
+              <p class="text-center description">{{ post.date | date: "%B %-d, %Y" }}</p>
+              <p class="excerpt">{{ post.excerpt }}</p>
 <!--Button to read full news-->
               <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary text-left mt-5 mb-3">Continue reading</a>
             </div>
@@ -66,66 +60,5 @@ feature-img: "img/code-bg.jpg"
 
 
 
-<!--  VANA VERSIOON 
-<div class="home">
-<ul>
-  {% if site.theme.header_text %}
-  <div class="call-out"
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')"></div>
-    {{ site.theme.header_text }}
-    <ul class="social-media-icons">
-      {% include icons.html %}
-    </ul>
-  
-  </div>
-  {% endif %}
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <header>
-      {% if post.feature-img %}
-        <img class="news_headerpicture" src="{{ site.baseurl }}/{{ post.feature-img }}">
-      {% endif %}  
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-          </a>
-        </h2>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme.str_continue_reading }}
-        </a>
-      </div>
-    </div>
-    {% endfor %}
-    
-  </div>
 
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme.str_prev }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme.str_next }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-
-  </div>
-  
-  {% endif %}
-
-</ul>
-</div>
--->
 

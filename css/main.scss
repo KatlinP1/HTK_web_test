@@ -9,8 +9,29 @@
 @import './style/Team-Boxed.css';
 @import './style/Team-Clean.css';
 @import './style/untitled.css';
+/*@import './style/Simple-Slider.css';*/
 @import './fonts/font-awesome.min.css';
 
+@font-face {
+    font-family: MinionPro;
+    src: url('./fonts/MinionPro-Regular.otf') format("opentype");
+}
+
+@font-face {
+    font-family: MinionPro;
+    font-weight: bold;
+    src: url('./fonts/MinionPro-Bold.otf') format("opentype");
+}
+
+
+/* font-family: MinionPro;
+    src: url('./fonts/MinionPro-Regular.otf') format("opentype");
+    
+    font-family: MinionPro;
+    font-weight: bold;
+    src: url('./fonts/MinionPro-Bold.otf') format("opentype");
+    
+    */
 
 /*
 

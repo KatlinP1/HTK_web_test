@@ -1,0 +1,24 @@
+topic: "Research support and dev staff"
+topic_id: "support"
+peoples:
+  - name: "Priit Tammets"
+    worktitle: "Analyst"
+    email: "Priit.Tammets@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Priit_Tammets/est"
+
+  - name: "Pjotr Savitski"
+    worktitle: "Senior developer"
+    email: "Pjotr.Savitski@tlu.ee"
+    image: "/img/people/empty-profile.png"
+
+  - name: "Gleb Redko"
+    worktitle: "Developer"
+    email: "Gleb.Redko@tlu.ee"
+    image: "/img/people/empty-profile.png"
+
+  - name: "Aili Madisson"
+    worktitle: "Developer"
+    email: "Aili.Madisson@tlu.ee"
+    image: "/img/people/empty-profile.png"
+         

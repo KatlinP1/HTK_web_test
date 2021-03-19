@@ -1,8 +1,11 @@
 year: "2018"
 
 publications:
-  - authors: "somebody 2018"
-    title: "something"
+  - authors: somebody 2018
+    title: something
 
-  - authors: "Tsai, Y.S; Moreno-Marcos, P.M; Tammets, K; Kollom, K; Gašević, D (2018)."
+  - authors: somebody 2 2018
+    title: something    
+
+  - authors: Tsai, Y.S; Moreno-Marcos, P.M; Tammets, K; Kollom, K; Gašević, D (2018).
     title: "SHEILA policy framework: informing institutional strategies and policy processes of learning analytics. In: Buckingham Shum, S; Ferguson, R; Merceron, A; Ochoa X. (Ed.). LAK Learning Analytics and Knowledge Conference (1−10). ACM"
