@@ -2,7 +2,7 @@
 layout: page-small-header
 title: Projects
 permalink: /research/projects/
-feature-img: "img/code-bg.jpg"
+feature-img: "img/sample_feature_img.png"
 ---
 <!--Title + Project navigation -->
 <div class="row">
@@ -35,18 +35,32 @@ feature-img: "img/code-bg.jpg"
           <div class="col-sm-6 item project-container topic-{{project_sub.topic_id}}">
             <div class="row">
                 <div class="col-md-12 col-lg-5">
-                    <a href="#">{% if project.image %} 
+                {% if project.url %}
+                    <a href="{{project.url}}">{% if project.image %} 
                       <img class="img-fluid" src={% if project.image contains "://" %} 
                       "{{project.image}}"
                       {% else %}
                       "{{ site.baseurl }}/{{project.image}}" 
                       {% endif %}>
                       {% endif %}
-                    </a>
+                    </a> 
+                {% else %}
+                  {% if project.image %} 
+                    <img class="img-fluid" src={% if project.image contains "://" %} 
+                      "{{project.image}}"
+                      {% else %}
+                      "{{ site.baseurl }}/{{project.image}}" 
+                      {% endif %}>
+                {% endif %}
+                {% endif %}
                 </div>
                 <div class="col">
                   <h3 class="name" style="color: #4b8d89;">
+                  {% if project.url %} 
                     <a href="{{project.url}}" style="color: #4b8d89;">{{project.title}}</a>
+                  {% else %}
+                    {{project.title}}
+                  {% endif %}  
                   </h3>
                   <p style="margin-top: 5px;margin-bottom: 5px;">{{project.period}}</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">{{project.program}}</p>

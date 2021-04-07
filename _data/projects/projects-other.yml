@@ -1,0 +1,56 @@
+topic: "Other projects"
+topic_id: "Other projects"
+projects:
+  - title: "SmartZoos - Cross-border services for creative adventure learning in the zoos of the Central Baltic Region"
+    period: "01.09.2015 – 31.08.2018"
+    program: "Interreg Central Baltic 2014 - 2020"
+    members: "Terje Väljataga, Priit Tammets, Pjotr Savitski, Gerti Pishtari"
+     
+  - title: "SDLAB - Software Development Lab Creation at the School of Digital Technologies, Tallinn University"
+    period: "01.03.2016 – 01.05.2017"
+    program: "HITSA"
+    members: "Ilja Šmorgun, David Lamas"
+
+  - title: "Professional Digital Competencies in TLU Five Focus Fields"
+    period: "01.04.2016 – 31.05.2017"
+    program: "HITSA"
+    members: "Kairit Tammets, Terje Väljataga, Hans Põldoja, Mart Laanpere, Kai Pata, Kaire Kollom, Veronika Rogalevitš, David Lamas, Ilja Šmorgun"
+
+  - title: "IDLAB/UXLAB - Interaction Design Lab upgrade including new User Experience Evaluation toolbox at the School of Digital Technologies, Tallinn University"
+    period: "01.03.2016 – 01.05.2017"
+    program: "HITSA"
+    members: "Aleksander Väljamäe, David Lamas"  
+
+  - title: "ICT Solutions for Estonian History Museum history centre"
+    period: "14.10.2016 – 31.01.2018"
+    program: "Kesaten Invest OÜ"
+    members: "Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun"
+
+  - title: "GOPROSOCIAL: Neurocinematic System for Assessing and Training Prosocial Behaviors"
+    period: "01.01.2017 – 31.12.2020"
+    program: "Estonian Researh Agency"
+    members: "Aleksander Väljamäe, Anastassiia Väljamäe, Sonia Sousa"
+
+  - title: "Collective Dreaming: Experimental Interaction Design course for non-ICT audiences"
+    period: "15.06.2016 - 01.10.2017"
+    program: "Nordplus"
+    members: "Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun" 
+
+  - title: "something other"
+    period: "something"
+    program: "something"
+    members: "someone"
+    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
+
+  - title: "TEST projekt"
+    period: " 01.05.2016 – 30.04.2017"
+    program: "EC, COST"
+    members: "Test isikud"
+    image: "img/posts/enrope-kickoff2019.jpg"
+    url: "/test" 
+ 
+
+
+
+
+

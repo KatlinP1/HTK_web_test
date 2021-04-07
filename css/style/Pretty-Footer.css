@@ -5,13 +5,17 @@ footer {
   width: 100%;
   text-align: left;
   font: bold 16px sans-serif;
-  padding: 55px 50px;
+  padding: 25px 20px;
   margin-top: 80px;
   bottom: 0;
   color: #fff;
   border-top: 5px #6bcaba solid;
   -webkit-box-shadow: 0px 3px 6px 1px #000000;
   box-shadow: 0px 3px 6px 1px #000000;
+}
+
+.footer-row{
+  padding-left: 5%;
 }
 
 .footer-navigation h3 {

@@ -2,7 +2,7 @@
 layout: page-small-header
 title: Research
 permalink: /research/
-feature-img: "img/code-bg.jpg"
+feature-img: "img/sample_feature_img.png"
 ---
 <!--Title + introduction-->
 <div class="container">

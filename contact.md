@@ -2,7 +2,7 @@
 layout: page-small-header
 title: Contact
 permalink: /about/contact/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/sample_feature_img.png"
 ---
 <!--Heading-->
 <div class="row">
@@ -37,7 +37,7 @@ feature-img: "img/sample_feature_img_2.png"
                 </div>
             </div>
         </div>
-        <div class="col col-12 col-md-6"><img src="/img/building.jpg" class="mt-2 mb-2" style="width: 100%;padding-top: 10%;">
+        <div class="col col-12 col-md-6"><img src="/img/TLU.png" class="mt-2 mb-2" style="width: 100%;padding-top: 10%;">
     </div>
 </div>
 

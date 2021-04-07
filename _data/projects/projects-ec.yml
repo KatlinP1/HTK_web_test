@@ -1,0 +1,32 @@
+topic: "European Commission"
+topic_id: "European Commission"
+projects:
+  - title: "IC-Health - improving digital health literacy in Europe"
+    period: "01.09.2016 – 31.08.2018"
+    program: "Horizon 2020"
+    members: "Kairit Tammets, Jaanika Hirv"
+
+  - title: "EduMap - Adult Education as a Means to Active Participatory Citizenship"
+    period: "01.02.2016 – 31.12.2018"
+    program: "HORIZON 2020 YOUNG-3-2015, RIA"
+    members: "Kai Pata" 
+
+  - title: "DigCompOrg - Piloting the European Framework for Digitally-Competent Schools in EU education systems LOT 5: DigCompOrg school pilot in Estonia"
+    period: "01.09.2016 – 31.08.2018"
+    program: "EC, Joint Research Centre"
+    members: "Mart Laanpere"
+
+  - title: "Aapele - Algorithms, Architectures and Platforms for Enhanced Living Environments" 
+    period: "01.05.2016 – 30.04.2017"
+    program: "EC, COST"
+    members: "David Lamas, Sonia Sousa, Ilja Šmorgun"
+
+  - title: "TEST 2"
+    period: "something"
+    program: "something"
+    members: "someone"
+    image: "https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg"
+    url: "/test" 
+           
+
+     

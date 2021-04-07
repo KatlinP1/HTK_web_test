@@ -3,7 +3,7 @@
 layout: page-small-header
 title: Blog
 permalink: /blog/
-feature-img: "img/code-bg.jpg"
+feature-img: "img/sample_feature_img.png"
 ---
 <!--Title + blog navigation-->
 <div class="container">

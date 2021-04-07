@@ -1,0 +1,472 @@
+I"lL<!--Title + Project navigation -->
+<div class="row">
+  <div class="col">
+    <h1 class="text-center mt-3">Projects</h1>
+      <div class="divider-center mt-2 mb-2">
+            <div class="divider-line-1"></div>
+            <div class="divider-line-2"></div>
+      </div>
+      <div class="mt-5">
+          <div class="row" style="height: initial;margin-bottom: 30px;">
+          
+          
+            <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
+            <a onclick="showProject('ERASMUS+')" style="color: #4b8d89; cursor:pointer;">ERASMUS+</a>
+            </div>
+          
+          
+            <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
+            <a onclick="showProject('European Commission')" style="color: #4b8d89; cursor:pointer;">European Commission</a>
+            </div>
+          
+          
+            <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
+            <a onclick="showProject('other')" style="color: #4b8d89; cursor:pointer;">other</a>
+            </div>
+            
+          </div>
+      </div>
+  </div>
+</div>
+
+<!--Projects content-->
+<div class="projects-horizontal">
+  <div class="container">
+    <div class="row projects">
+      
+      
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/ychange"> 
+                      <img class="img-fluid" src="/img/erasmus-plus.png" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/ychange" style="color: #4b8d89;">YCHANGE – Young Scientists as Change Explorers - Students Evaluating Environmental Change in Europe with Digital Space Technologies</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.12.2016 – 30.11.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Terje Väljataga, Priit Tammets, Sander Aido</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/sheila"> 
+                      <img class="img-fluid" src="/img/erasmus-plus.png" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/sheila" style="color: #4b8d89;">SHEILA - Supporting Higher Education to Integrate Learning Analytics</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2016 – 30.08.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Kaire Kollom, Adolfo Ruiz Calleja</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    PT&amp;SCHE - Introduction of part-time and short cycle studies in Serbia
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">15.10.2015 - 14.10.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+, Higher Education - International Capacity Building</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Vladimir Tomberg, Pirgit Voolaid</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    LEAP - Lean and Agile Practices linking Engineering Higher Education to Industry
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2016 – 31.08.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Eramus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata, Triinu Jesmin, Martin Sillaots</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    LanguageGames - Serious Games for Fostering Multilingualism in Early Childhood Education
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">31.12.2015 – 30.12.2017</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ - Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Triinu Jesmin, Martin Sillaots</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    EU-DO-IT - European Digital Online-Game for Intercultural Learning and Translanguaging
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.12.2016 – 30.11.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ - Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Martin Sillaots, Sander Aido</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    EMPLOY - Digital Skills for Employability and Social Inclusion
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2015 - 01.09.2017</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Martin Sillaots, Sander Aido</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    INOS - Integrating open and citizen science into active learning approaches in higher education
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2019 - 31.08.2022</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ - Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata, Külli Kori</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2017 – 31.08.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ - Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/test"> 
+                      <img class="img-fluid" src="https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/test" style="color: #4b8d89;">TEST 2</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">someone</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-ERASMUS+">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/test"> 
+                      <img class="img-fluid" src="https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/test" style="color: #4b8d89;">TEST 2</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">someone</p>
+                </div>
+            </div>
+          </div>
+      
+      
+      
+      
+          <div class="col-sm-6 item project-container topic-European Commission">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/ychange"> 
+                      <img class="img-fluid" src="/img/erasmus-plus.png" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/ychange" style="color: #4b8d89;">YCHANGE – Young Scientists as Change Explorers - Students Evaluating Environmental Change in Europe with Digital Space Technologies</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.12.2016 – 30.11.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Terje Väljataga, Priit Tammets, Sander Aido</p>
+                </div>
+            </div>
+          </div>
+      
+      
+      
+      
+          <div class="col-sm-6 item project-container topic-other">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    something other
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">someone</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-other">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/test"> 
+                      <img class="img-fluid" src="/img/posts/enrope-kickoff2019.jpg" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/test" style="color: #4b8d89;">TEST projekt</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;"> 01.05.2016 – 30.04.2017</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">EC, COST</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Test isikud</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-other">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                    <a href="/aapele"> 
+                      <img class="img-fluid" src="https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg" />
+                      
+                    </a> 
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                   
+                    <a href="/aapele" style="color: #4b8d89;">Collective Dreaming: Experimental Interaction Design course for non-ICT audiences</a>
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">s15.06.2016 - 01.10.2017</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Nordplus</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-other">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    DigCompOrg - Piloting the European Framework for Digitally-Competent Schools in EU education systems LOT 5: DigCompOrg school pilot in Estonia
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2016 – 31.08.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">EC, Joint Research Centre</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-other">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2017 – 31.08.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ - Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-other">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89;">
+                  
+                    Integrating open and citizen science into active learning approaches in higher education
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">1.09.2019 - 31.08.2022</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ - Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata, Külli Kori</p>
+                </div>
+            </div>
+          </div>
+      
+      
+    </div>
+  </div>
+</div>
+
+<!--Function to show projects-->
+<script>
+  function showProject(topic_id){
+    hideProjectElements();
+    var classElem = "topic-"+topic_id;
+
+    var elems = document.getElementsByClassName(classElem);
+
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].style.display = 'block';
+    }
+  }
+  function hideProjectElements(){
+    var elems = document.getElementsByClassName('project-container');
+
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].style.display = 'none';
+    }
+  }
+</script>
+
+:ET

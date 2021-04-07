@@ -2,7 +2,7 @@
 layout: page-small-header
 title: People
 permalink: /people/
-feature-img: "img/code-bg.jpg"
+feature-img: "img/sample_feature_img.png"
 ---
 <!--Heading + navigation-->
 <div class="row">
@@ -32,10 +32,11 @@ feature-img: "img/code-bg.jpg"
         <h2 id="{{people_sub.topic_id}}">{{people_sub.topic}}</h2>
     </div>
       {% for people in people_sub.peoples %}
-<!--People info box -->
-    <div class="col-md-4 mt-4" style="height: 385px;"> 
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
     <a {% if people.etis %}  href="{{people.etis}}" target="_blank" {% endif %}>
-    <img class="rounded mt-2 mb-3" src="{{people.image}}" width="150px" height="150px"></a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url({{people.image}})"></div>
+    </a>
         <h5><strong>{{people.name}}</strong></h5>
         <p class="title pt-1 pb-1" style="margin: 0px;">{{people.worktitle}}</p>
         <p class="pt-0 pb-1" style="margin: 0px;">{{people.email}}</p>
@@ -45,11 +46,28 @@ feature-img: "img/code-bg.jpg"
         {% if people.etis %} 
         <a class="pt-0 pb-2 mb-3" href="{{people.etis}}" target="_blank">Link ETIS<br></a>
         {% else %}
-        <p class="pt-0 pb-2 mb-3"> </p>
+        <p class="pt-0 pb-2 mb-4"> </p>
         {% endif %}
     </div>
     {% endfor %}
     {% endfor %}
 
 
+<!-- esialgne pildi lahendus 
+<a {% if people.etis %}  href="{{people.etis}}" target="_blank" {% endif %}>
+    <img class="rounded mt-3 mb-3" src="{{people.image}}" width="150px" height="150px">
+</a>
+-->
 
+<!-- UUS PILDI LAHENDUS
+<div class="rounded mt-3 mb-3" style="picture-style background-image: url({{people.image}})"></div>
+
+stiili kirjeldus 
+width: 150px;
+    height: 150px;
+    background-image: url(/img/people/Triinu_Jesmin.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+-->

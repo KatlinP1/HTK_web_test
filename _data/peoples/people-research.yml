@@ -40,7 +40,7 @@ peoples:
   - name: "Maria Jesus Rodriguez Triana"
     worktitle: "Senior Researcher of Educational data mining"
     email: "Maria_jesus.Rodriguez_triana@tlu.ee"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Maria_Jesus_Rodriguez_Triana.jpg"
     etis: "https://www.etis.ee/CV/Maria%20jesus_Rodriguez%20triana/est"
 
   - name: "Vladimir Tomberg"
@@ -52,7 +52,7 @@ peoples:
   - name: "Triinu Jesmin"
     worktitle: "Lecturer, junior researcher"
     email: "Triinu.Jesmin@tlu.ee"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Triinu_Jesmin.jpeg"
     etis: "https://www.etis.ee/CV/Triinu_Jesmin/est"
 
   - name: "Jaanika Hirv"
@@ -76,7 +76,7 @@ peoples:
   - name: "Gerti Pishtari"
     worktitle: "Junior researcher (PhD student)"
     email: "Gerti.Pishtari@tlu.ee"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Gerti_Pishtari.jpg"
     etis: "https://www.etis.ee/CV/Gerti_Pishtari/est"
 
   - name: "Eka Jeladze"
@@ -88,7 +88,7 @@ peoples:
   - name: "Shashi Kant Shankar"
     worktitle: "PhD student"
     email: "shashik@tlu.ee"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Shashi_Kant_Shankar.jpg"
     etis: "https://www.etis.ee/CV/Shashi%20Kant_Shankar/est"
 
   - name: "Maia Lust"
