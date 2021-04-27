@@ -2,7 +2,7 @@
 layout: page-small-header
 title: Projects
 permalink: /research/projects/
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/Kaanefoto4.jpg"
 ---
 <!--Title + Project navigation -->
 <div class="row">
@@ -55,7 +55,7 @@ feature-img: "img/sample_feature_img.png"
                 {% endif %}
                 </div>
                 <div class="col">
-                  <h3 class="name" style="color: #4b8d89;">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
                   {% if project.url %} 
                     <a href="{{project.url}}" style="color: #4b8d89;">{{project.title}}</a>
                   {% else %}

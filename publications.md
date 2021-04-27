@@ -2,7 +2,7 @@
 layout: page-small-header
 title: Publications
 permalink: /research/publications/
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/publications4.jpg"
 ---
 <!-- permalink: /research/publications2/ -->
 

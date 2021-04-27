@@ -2,7 +2,7 @@
 layout: page-small-header
 title: Contact
 permalink: /about/contact/
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/Kaanefoto4.jpg"
 ---
 <!--Heading-->
 <div class="row">

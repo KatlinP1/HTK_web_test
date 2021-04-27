@@ -2,7 +2,7 @@
 layout: page-small-header
 title: People
 permalink: /people/
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/Kaanefoto4.jpg"
 ---
 <!--Heading + navigation-->
 <div class="row">

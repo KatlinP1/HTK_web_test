@@ -47,9 +47,10 @@ projects:
 
   - title: "INOS - Integrating open and citizen science into active learning approaches in higher education"
     period: "01.09.2019 - 31.08.2022"
-    program: "Erasmus+ - Strategic Partnerships"
+    program: "Erasmus+(KA2) - Strategic Partnerships"
     members: "Kai Pata, Külli Kori"
-    image: "img/erasmus-plus.png"   
+    image: "img/posts/kai.jpg" 
+    url: "/inso"    
 
   - title: "DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society"
     period: "01.09.2017 – 31.08.2019"
@@ -57,11 +58,5 @@ projects:
     members: "Kai Pata"
     image: "img/erasmus-plus.png"  
 
-  - title: "TEST 2"
-    period: "something"
-    program: "something"
-    members: "someone"
-    image: "https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg"
-    url: "/test"  
                        
   

@@ -16,7 +16,7 @@ peoples:
   - name: "Kairit Tammets"
     worktitle: "Senior Researcher of Educational technology"
     email: "Kairit.Tammets@tlu.ee"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Kairit_Tammets.jpg"
     etis: "https://www.etis.ee/CV/Kairit_Tammets/est"
 
   - name: "Terje Väljataga"
@@ -64,7 +64,7 @@ peoples:
   - name: "Linda Helene Sillat"
     worktitle: "Junior researcher"
     email: "sillat@tlu.ee"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Linda_Helene_Sillat.jpg"
     etis: "https://www.etis.ee/CV/Linda%20Helene_Sillat/est"
 
   - name: "James Sunney Quaicoe"
@@ -103,6 +103,26 @@ peoples:
     image: "/img/people/empty-profile.png"
     etis: "https://www.etis.ee/CV/Pankaj_Chejara/est"
 
-                                      
+  - name: "Merike Saar"
+    worktitle: "Junior Research Fellow"
+    email: "merike.saar@tlu.ee"
+    image: "/img/people/Merike_Saar.jpg"
+    etis: "https://www.etis.ee/CV/Merike_Saar/est"
 
+  - name: "Manisha Khulbe"
+    worktitle: "Junior Research Fellow"
+    email: "manisha.khulbe@tlu.ee"
+    image: "/img/people/Manisha_Khulbe.jpg"
+    etis: "https://www.etis.ee/CV/Manisha__Khulbe/est" 
+
+  - name: "Liyanachchi Mahesha Harshani De Silva"
+    worktitle: "Junior Research Fellow"
+    email: " mahesha@tlu.ee"
+    image: "/img/people/empty-profile.png"     
+                                      
+  - name: "Kadri Mettis"
+    worktitle: "Junior Research Fellow"
+    email: "kadri.mettis@tlu.ee"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Kadri_Mettis/est"
 

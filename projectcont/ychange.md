@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YCHANGE – Young Scientists as Change Explorers - Students Evaluating Environmental Change in Europe with Digital Space Technologies
-feature-img: "img/DTIkaanefoto1.jpg"
+feature-img: "img/research2.jpg"
 permalink: "/ychange"
 ---
 
@@ -11,7 +11,7 @@ permalink: "/ychange"
 |01.12.2016 – 30.11.2018|Erasmus+|Terje Väljataga, Priit Tammets, Sander Aido|Charles University in Prague, Pädagogische Hochschule Heidelberg|
 
 #### Project overview
-Zoos are important institutions of preserving the natural heritage of the CB region - protecting and preserving endangered species and at the same time increasing the environmental awareness. At the moment, the use of mobile technologies for learning by visitors of the zoos is very traditional, mainly providing static information. There is an active cooperation network between the zoos of the CB region, but at the moment it is limited mainly on exchanging animals and conducting joint research. Therefore the main objective of the current project is to integrate the zoos of the CB region into joint tourist attraction through developing and implementing a cross-border service package for creative adventure learning with mobile devices. It consists of a set of online game-based learning tools and related apps for mobile devices. The SmartZoo mobile learning service provides a reason for visitors to return to zoo several times a year and visit several zoos in one year. Thus, the SmartZoo enhances both the environmental awareness and economical growth of the CB region.
+The innovative educational materials and concepts developed within the YCHANGE project enable students to learn about local environmental phenomena, how they are changing and whether these changes are sustainable in a multi- and transdisciplinary way. The materials increase the awareness of teachers and students got the potential of satellite images and their importance for todays´ society. Both teachers and students will be enabled to perform basic satellite image analysis to address environmental issues. The project YCHANGE tends to close the wide gap between the usage of earth observation via remote sensing, mostly with satellite image analysis, in science and economy on the one side and school education on the other side. Although remote sensing is relevant in curricula trouhout Europe the meaningful application of satellite image analysis is a rarity. Therefor, the three partners Heidelberg University of Education (Department for Geography), TLU (CET) and Charles University in Prague (ESERO office and AGID) with their respective foci (remote sensing education from a more pedagogical point of view; digital tools for learning; remote sensing from a more scientific point of view) form a consortium in order to develop, implement and evaluate solutions to bring satellite image analysis in school education.
 
 #### Project links
 

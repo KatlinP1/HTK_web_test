@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SHEILA - Supporting Higher Education to Integrate Learning Analytics 
-feature-img: "img/DTIkaanefoto1.jpg"
+feature-img: "img/research2.jpg"
 permalink: "/sheila"
 ---
 

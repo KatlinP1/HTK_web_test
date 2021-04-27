@@ -1,10 +1,4 @@
----
-layout: page-small-header
-title: Research
-permalink: /research/
-feature-img: "img/research2.jpg"
----
-<!--Title + introduction-->
+I"G<!--Title + introduction-->
 <div class="container">
     <div class="row">
          <div class="col col-md-10 offset-md-1">
@@ -17,12 +11,12 @@ feature-img: "img/research2.jpg"
 <div>
 
 <!--Navigation menu of research topics-->
-<div class="research_nav" class="row" style="height: initial;margin-bottom: 30px;" >
+<div class="row" style="height: initial;margin-bottom: 30px;">
     <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(1)">
-        <a href="#steam_research" style="color: #4b8d89;" class="research-link link-1" >STE(A)M education and Citizen science</a>
+        <a href="#steam_research" style="color: #4b8d89;" class="research-link link-1">STE(A)M education and Citizen science</a>
     </div>
-    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(2)" >
-        <a href="#digitaltransform_research" style="color: #4b8d89;" class="research-link link-2" >Digital Transformation</a></div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(2)">
+        <a href="#digitaltransform_research" style="color: #4b8d89;" class="research-link link-2">Digital Transformation</a></div>
     <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(3)">
         <a href="#digitalcomp_research" style="color: #4b8d89;" class="research-link link-3">Digital competences</a>
     </div>
@@ -103,7 +97,7 @@ feature-img: "img/research2.jpg"
         <strong>iHUB4Schools: Accelerating Digital Innovation in Schools through Regional Innovation Hubs and a Whole-School Mentoring Model</strong>- The Horizon 2020 funded project will propose mechanisms to accelerate whole-school digital innovation in and across schools through establishment of Regional Innovation Hubs.
     </li>
     <li>
-        <strong>SHERPA: SELFIE HElpeR & Pedagogical innovation Assistant</strong>- The project aims at widening, deepening and accelerating digital innovation in European schools by improving SELFIE-driven data-inspired and participatory decision making in the school development process. Funded by Erasmus+. 
+        <strong>SHERPA: SELFIE HElpeR &amp; Pedagogical innovation Assistant</strong>- The project aims at widening, deepening and accelerating digital innovation in European schools by improving SELFIE-driven data-inspired and participatory decision making in the school development process. Funded by Erasmus+. 
     </li>
     <li>
         <strong>Digital Mirror</strong>- The goal of this project is to develop a framework and tools for supporting self-evaluation of schools' digital maturity. In collaboration with Ministry of Education and Science. 
@@ -224,3 +218,5 @@ feature-img: "img/research2.jpg"
 showElement(1);
 </script>
 
+</div></div></div></div>
+:ET

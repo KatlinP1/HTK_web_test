@@ -5,6 +5,7 @@ projects:
     period: "01.09.2015 – 31.08.2018"
     program: "Interreg Central Baltic 2014 - 2020"
     members: "Terje Väljataga, Priit Tammets, Pjotr Savitski, Gerti Pishtari"
+    image: "img/research2.jpg"
      
   - title: "SDLAB - Software Development Lab Creation at the School of Digital Technologies, Tallinn University"
     period: "01.03.2016 – 01.05.2017"
@@ -36,18 +37,7 @@ projects:
     program: "Nordplus"
     members: "Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun" 
 
-  - title: "something other"
-    period: "something"
-    program: "something"
-    members: "someone"
-    image: "https://f10.pmo.ee/yNLbHpkxgok0HEhqefgUaTNUG3c=/685x0/smart/nginx/o/2015/11/17/4708575t1h45fb.jpg"
-
-  - title: "TEST projekt"
-    period: " 01.05.2016 – 30.04.2017"
-    program: "EC, COST"
-    members: "Test isikud"
-    image: "img/posts/enrope-kickoff2019.jpg"
-    url: "/test" 
+ 
  
 
 

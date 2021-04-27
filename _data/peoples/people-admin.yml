@@ -5,7 +5,7 @@ peoples:
     worktitle: "Head of the centre for educational technology"
     email: "Kairit.Tammets@tlu.ee"
     phone: "+372 640 9355"
-    image: "/img/people/empty-profile.png"
+    image: "/img/people/Kairit_Tammets.jpg"
     etis: "https://www.etis.ee/CV/Kairit_Tammets/est"
 
   - name: "Anet Tammets"
@@ -19,3 +19,10 @@ peoples:
     email: "Ramune.Tuulik@tlu.ee"
     phone: "+372 640 9355"
     image: "/img/people/Ramune_Tuulik.jpg"   
+
+  - name: "Polina Hanenko"
+    worktitle: "Research Assistant"
+    email: "polina.hanenko@tlu.ee"
+    phone: "+372 640 9355"
+    image: "/img/people/empty-profile.png"
+    etis: "https://www.etis.ee/CV/Polina_Hanenko?tabId=CV_EST"       
