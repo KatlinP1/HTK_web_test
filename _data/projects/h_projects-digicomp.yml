@@ -1,0 +1,45 @@
+topic: "Digital competences"
+topic_id: 8
+#topic_id: "Digital competences"
+projects:
+  - title: "HUM@N: Digital Transformation in Humanities"
+    period: "01.11.2019 –31.12.2021"
+    program: "Erasmus+ KA2"
+    members: "Linda Helene Sillat, Manisha Khulbe"
+    image: "img/project_logos/HUMAN.jpg" 
+
+  - title: "DigCompEdu: Pilot study of the 'self-reflection tool' based on the European Framework for the Digital Competence of Educators"
+    period: "20.10.2020–19.10.2021"
+    program: "JRC"
+    members: "Mart Laanpere, Linda Helene Sillat"   
+    image: "img/project_logos/digcompedu-community.jpg" 
+
+  - title: "Scaffolding Computational Thinking - Enhancing Nordic Teacher Education"
+    period: "15.05.2019–01.05.2021"
+    program: "Nordplus Higher Education 2019"
+    members: "Mart Laanpere, Maia Lust"      
+    image: "img/financier_logos/Nordplus.jpg" 
+
+  - title: "IT-Teaching development in TLU 2021"
+    period: "01.01.2021 - 31.12.2021"
+    program: "Harno, IT Akadeemia"
+    members: "Hans Põldoja, Mart Laanpere, Maia Lust"   
+    image: "img/financier_logos/HARNO.jpg"   
+
+  - title: "Leading universities - catalysts for change"
+    period: "01.03.2021 - 28.02.2023"
+    program: "Erasmus+, K2"
+    members: "Mart Laanpere"      
+    image: "img/financier_logos/erasmus_K2.jpg" 
+
+  - title: "Professional Development Digital Ecosystem for the Educators"
+    period: "01.01.2020 - 30.06.2021"
+    program: "Eesti Teadusagentuur"
+    members: "Kairit Tammets, Priit Tammets, Linda Helene Sillat, Tobias Ley, Mart Laanpere, Pjotr Savitski"
+    image: "img/financier_logos/ETAG.jpg"
+
+  - title: "NOTELEB: No teacher left behind"
+    period: "01.09.2020–31.08.2023"
+    program: "Erasmus+ KA2"
+    members: "Linda Helene Sillat, Krista Loogma, Kairit Tammets" 
+    image: "img/financier_logos/erasmus_K2.jpg"    

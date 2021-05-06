@@ -1,0 +1,21 @@
+topic: "Other projects"
+topic_id: 9
+#topic_id: "OTHER (New projects without topic)"
+projects:
+  - title: "ENROPE: European Network for Junior Researchers in the Field of Plurilingualism and Education"
+    period: "01.09.2018–31.08.2021"
+    program: "Erasmus+ KA2"
+    members: "Priit Tammets, Gleb Redko"
+    image: "img/project_logos/ENROPE.jpg"  
+
+  - title: "Development of electronic tests for social sciences"
+    period: "03.03.2020–31.12.2021"
+    program: "Harno"
+    members: "Mare Oja, Eve Kikas, Anu Toots, Kristiina Treial"   
+    image: "img/financier_logos/HARNO.jpg"  
+
+  - title: "PARTISH: Development of part-time and short cycle studies in higher education in Bosnia and Herzegovina"
+    period: "15.01.2021–14.01.2024"
+    program: "Erasmus+ Capacity Building"
+    members: "Vladimir Tomberg"     
+    image: "img/financier_logos/erasmus-plus.png"   

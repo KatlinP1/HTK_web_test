@@ -21,5 +21,5 @@ The innovative educational materials and concepts developed within the YCHANGE p
 
 **Project logos**
 <div> 
-    <img class="img-fluid-innews" src="{{ '/img/erasmus-plus.png' | prepend: site.baseurl }}" alt="EU erasmus logo">
+    <img class="img-fluid-innews" src="{{ '/img/financier_logos/erasmus-plus.png' | prepend: site.baseurl }}" alt="EU erasmus logo">
 </div>

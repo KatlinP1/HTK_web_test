@@ -1,7 +1,7 @@
 ---
 layout: post
 title: INOS - Integrating open and citizen science into active learning approaches in higher education
-feature-img: "img/posts/kai.jpg"
+feature-img: "img/projects/inos.jpg"
 permalink: "/inso"
 ---
 
@@ -26,5 +26,5 @@ Total(Kogueelarve) 40,4980 €, TLÜ budget (eelarve) 31,420 €
 
 **Project logos**
 <div> 
-    <img class="img-fluid-innews" src="{{ '/img/erasmus-plus.png' | prepend: site.baseurl }}" alt="EU erasmus logo">
+    <img class="img-fluid-innews" src="{{ '/img/financier_logos/erasmus-plus.png' | prepend: site.baseurl }}" alt="EU erasmus logo">
 </div>

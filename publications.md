@@ -2,8 +2,9 @@
 layout: page-small-header
 title: Publications
 permalink: /research/publications/
-feature-img: "img/publications4.jpg"
+feature-img: "img/banner/banner_publications.jpg"
 ---
+<!--feature-img: "img/publications4.jpg" oli enne selline pilt-->
 <!-- permalink: /research/publications2/ -->
 
 <!--Title-->

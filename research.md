@@ -2,8 +2,11 @@
 layout: page-small-header
 title: Research
 permalink: /research/
-feature-img: "img/research2.jpg"
+feature-img: "img/banner/new_research.jpg"
 ---
+
+<!-- "img/banner/research-themes.jpg"  -- >
+<!--feature-img: "img/research2.jpg" enne oli see pilt -->
 <!--Title + introduction-->
 <div class="container">
     <div class="row">
@@ -30,7 +33,7 @@ feature-img: "img/research2.jpg"
         <a href="#learning_research" style="color: #4b8d89;" class="research-link link-4">Evidence-based teaching and learning practices</a>
     </div>
     <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(5)">
-        <a href="#game_research" style="color: #4b8d89;" class="research-link link-6">Game-based learning</a>
+        <a href="#game_research" style="color: #4b8d89;" class="research-link link-5">Game-based learning</a>
     </div>
 </div>
 

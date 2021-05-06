@@ -1,0 +1,9 @@
+topic: "Computational thinking"
+topic_id: 2
+# topic_id: "TEL strategies-computational thinking"
+projects:
+  - title: "Assessing CT in Nordic Maker Education"
+    period: "01.08.2020–31.07.2022"
+    program: "Nordplus Horizontal 2020"
+    members: "Mart Laanpere, Maia Lust"
+    image: "img/financier_logos/Nordplus.jpg"  

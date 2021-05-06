@@ -1,0 +1,45 @@
+topic: "Game-based learning"
+topic_id: 5
+#topic_id: "Game-based learning"
+projects:
+  - title: "MAGnUS: Developing Master Programmes in Mobile Applications and Game Design at Partner Universities"
+    period: "15.01.2019 –14.01.2022"
+    program: "Erasmus+ Capacity Building"
+    members: "Martin Sillaots, Maria Khan"
+    image: "img/project_logos/Magnus.jpg"
+
+  - title: "MaSCE3: Math Trails in School, Curriculum and Educational Environments of Europe"
+    period: "01.09.2019–31.08.2022"
+    program: "Erasmus+ KA2"
+    members: "Andrus Rinde, Pjotr Savitski"
+    image: "img/project_logos/MaSCE.jpg"
+
+  - title: "HERA: Higher education re-engineering through active learning for growth"
+    period: "01.09.2019–31.08.2021"
+    program: "Erasmus+ KA2"
+    members: "Triinu Jesmin, Jaanus Terasmaa"
+    image: "img/project_logos/HERA.jpg"
+
+  - title: "High5: Transdisciplinary methodology for Integrated Design in higher education"
+    period: "01.09.2020 –29.02.2022"
+    program: "Erasmus+ KA2"
+    members: "Jaanus Terasmaa, Triinu Jesmin, Liisa Puusepp"
+    image: "img/project_logos/High5_logo.jpg"
+
+  - title: "Design Thinking for Sustainability (DT4S)"
+    period: "01.09.2019 –31.08.2021"
+    program: "Erasmus+ KA2"
+    members: "Triinu Jesmin, Jaanus Terasmaa"
+    image: "img/project_logos/DT4S.jpg"  
+
+  - title: "ICT-INOV: Modernizing ICT Education for Harvesting Innovation"
+    period: "15.01.2021–14.01.2024"
+    program: "Erasmus+ Capacity Building"
+    members: "Triinu Jesmin, Peadar Callaghan"
+    image: "img/project_logos/ICT-INOV.jpg"           
+
+  - title: "VIE: Virtual presence in Higher Education Hybrid Learning Delivery"
+    period: "01.03.2021 - 28.02.2023"
+    program: "Erasmus+ K2"
+    members: "Triinu Jesmin, Jaanus Terasmaa, Maris Morel, Terje Väljataga"
+    image: "img/financier_logos/erasmus_K2.jpg"     

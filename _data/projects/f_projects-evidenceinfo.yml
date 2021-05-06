@@ -1,0 +1,33 @@
+topic: "Evidence-informed"
+topic_id: 6
+#topic_id: "Evidence-informed"
+projects:
+  - title: "Illumine: A community for exploring and sharing uses of evidence-based teaching strategies"
+    period: "01.12.2020–31.07.2023"
+    program: "Erasmus+ KA2"
+    members: "Kairit Tammets, Linda Helene Sillat, Merike Saar"
+    image: "img/project_logos/ILLUMINE.jpg"   
+
+  - title: "Impact of 1:1 computing and teaching strategies to students' conceptual understanding"
+    period: "01.02.2021 - 30.22.2023"
+    program: "Harno"
+    members: "Kairit Tammets, Grete Arro, Kati Aus, Milena Edna Sarmiento Marquez" 
+    image: "img/financier_logos/HARNO.jpg"      
+
+  - title: "INSTALL-ed: Increasing Self-regulated learning with Technology-Amplified Learning for ALL: Educators going digital"
+    period: "01.03.2021 - 28.02.2023"
+    program: "Erasmus+ K2"
+    members: "Kairit Tammets, Tobias Ley, Shashi Kant Shankar, Yagmur Cisem Yilmaz" 
+    image: "img/financier_logos/erasmus_K2.jpg"
+
+  - title: "Professional Development Digital Ecosystem for the Educators"
+    period: "01.01.2020 - 30.06.2021"
+    program: "Eesti Teadusagentuur"
+    members: "Kairit Tammets, Priit Tammets, Linda Helene Sillat, Tobias Ley, Mart Laanpere, Pjotr Savitski"
+    image: "img/financier_logos/ETAG.jpg"
+
+  - title: "NOTELEB: No teacher left behind"
+    period: "01.09.2020–31.08.2023"
+    program: "Erasmus+ KA2"
+    members: "Linda Helene Sillat, Krista Loogma, Kairit Tammets" 
+    image: "img/financier_logos/erasmus_K2.jpg"       

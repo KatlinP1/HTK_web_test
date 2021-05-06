@@ -2,8 +2,10 @@
 layout: page-small-header
 title: Projects
 permalink: /research/projects/
-feature-img: "img/Kaanefoto4.jpg"
+feature-img: "img/banner/new_projects.jpg"
 ---
+<!-- feature-img: "img/banner/banner_projects.jpg" -->
+<!-- feature-img: "img/Kaanefoto4.jpg" enne oli see -->
 <!--Title + Project navigation -->
 <div class="row">
   <div class="col">
@@ -14,10 +16,11 @@ feature-img: "img/Kaanefoto4.jpg"
       </div>
       <div class="mt-5">
           <div class="row" style="height: initial;margin-bottom: 30px;">
-          {% for project in site.data.projects %}
+          {% assign sorted = site.data.projects | sort: topic_id %}
+          {% for project in sorted %}
           {% assign project_topic = project[1] %}
             <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
-            <a onclick="showProject('{{ project_topic.topic_id }}')" style="color: #4b8d89; cursor:pointer;">{{project_topic.topic}}</a>
+            <a onclick="showProject('{{ project_topic.topic_id }}')" id="topic-a-{{ project_topic.topic_id }}" class="project-link" style="color: #4b8d89; cursor:pointer;">{{project_topic.topic}}</a>
             </div>
           {% endfor %}  
           </div>
@@ -78,6 +81,7 @@ feature-img: "img/Kaanefoto4.jpg"
 <script>
   function showProject(topic_id){
     hideProjectElements();
+    makeLinkActive(topic_id); 
     var classElem = "topic-"+topic_id;
 
     var elems = document.getElementsByClassName(classElem);
@@ -93,5 +97,17 @@ feature-img: "img/Kaanefoto4.jpg"
         elems[i].style.display = 'none';
     }
   }
+
+//title color
+  function makeLinkActive(topicId){ 
+
+    var elems = document.getElementsByClassName('project-link active');
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].classList.remove("active");
+    }
+
+    var elem = document.getElementById("topic-a-"+topicId);
+    elem.classList.add("active");
+  }
+
 </script>
-  

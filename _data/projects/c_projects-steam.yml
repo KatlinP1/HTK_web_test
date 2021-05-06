@@ -1,0 +1,36 @@
+topic: "STEAM"
+topic_id: 3
+#topic_id: "STEAM"
+projects:
+  - title: "INOS: Integrating open and citizen science into active learning approaches in higher education"
+    period: "01.09.2019–31.08.2022"
+    program: "Erasmus+ KA2 - Strategic Partnerships"
+    members: "Kai Pata, Külli Kori"
+    image: "img/project_logos/inos-logo.jpg"
+    url: "/inso"  
+
+  - title: "TeaEdu4CT: Future Teachers Education: Computational Thinking and STEAM"
+    period: "01.09.2019–31.08.2022"
+    program: "Erasmus+ KA2"
+    members: "Mart Laanpere, Maia Lust"  
+    image: "img/project_logos/TeaEdu4CT.jpg"  
+
+  - title: "TINTIN: TeachINg about climate change in schools whilsT addressINg fake news and constructive journalism"
+    period: "01.10.2020–30.09.2022"
+    program: "Erasmus+ KA2"
+    members: "Manisha Khulbe"
+    image: "img/project_logos/TINTIN.jpg"   
+
+  - title: "Development of steam education (DOSE)"
+    period: "1.10.2020–31.01.2023"
+    program: "Erasmus+ KA2"
+    members: "Kadri Mettis, Mart Laanpere"  
+    image: "img/project_logos/DOSE.jpg"  
+
+  - title: "Outdoor learning in schools to integrate different subjects"
+    period: "01.06.2018–31.12.2021"
+    program: "Harno"
+    members: "Terje Väljataga, Priit Tammets, Liisa Puusepp, Jaanus Terasmaa, Kadri Mettis"  
+    image: "img/financier_logos/HARNO.jpg"      
+
+
