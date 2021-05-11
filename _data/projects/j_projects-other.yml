@@ -1,5 +1,5 @@
 topic: "Other projects"
-topic_id: 9
+topic_id: 10
 #topic_id: "OTHER (New projects without topic)"
 projects:
   - title: "ENROPE: European Network for Junior Researchers in the Field of Plurilingualism and Education"
@@ -19,3 +19,8 @@ projects:
     program: "Erasmus+ Capacity Building"
     members: "Vladimir Tomberg"     
     image: "img/financier_logos/erasmus-plus.png"   
+
+  - title: "IC-Health - improving digital health literacy in Europe"
+    period: "01.09.2016 – 31.08.2018"
+    program: "Horizon 2020"
+    members: "Kairit Tammets, Jaanika Hirv"    

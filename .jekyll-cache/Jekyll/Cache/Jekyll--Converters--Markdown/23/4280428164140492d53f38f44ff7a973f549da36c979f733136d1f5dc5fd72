@@ -1,4 +1,4 @@
-I"Y<!--Heading + navigation-->
+I"b[<!--Heading + navigation-->
 <div class="row">
     <div class="col">
         <h1 class="text-center mt-3">People</h1>
@@ -71,7 +71,7 @@
 <!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
     <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
     <a>
-    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/Aili_Mets.jpg)"></div>
     </a>
         <h5><strong>Aili Mets</strong></h5>
         <p class="title pt-1 pb-1" style="margin: 0px;">Developer</p>
@@ -430,6 +430,20 @@
         <p class="pt-0 pb-1" style="margin: 0px;">Ramune.Tuulik@tlu.ee</p>
          
         <p class="pt-0 pb-1" style="margin: 0px;">+372 640 9355</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
+    
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>Paula Joanna Sillat</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Projektide arendusspetsialist</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">paula_joanna.sillat@tlu.ee</p>
         
         
         <p class="pt-0 pb-2 mb-4"> </p>

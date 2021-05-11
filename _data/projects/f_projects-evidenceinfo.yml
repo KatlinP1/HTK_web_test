@@ -31,3 +31,10 @@ projects:
     program: "Erasmus+ KA2"
     members: "Linda Helene Sillat, Krista Loogma, Kairit Tammets" 
     image: "img/financier_logos/erasmus_K2.jpg"       
+
+  - title: "SHEILA - Supporting Higher Education to Integrate Learning Analytics"
+    period: "01.01.2016 – 30.08.2018"
+    program: "Erasmus+"
+    members: "Kairit Tammets, Kaire Kollom, Adolfo Ruiz Calleja"
+    image: "img/financier_logos/erasmus-plus.png"
+    url: "/sheila"     

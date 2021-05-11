@@ -2,8 +2,9 @@
 layout: page-small-header
 title: Projects
 permalink: /research/projects/
-feature-img: "img/banner/new_projects.jpg"
+feature-img: "img/banner/updated_projects.jpg"
 ---
+<!-- feature-img: "img/banner/new_projects.jpg"  -->
 <!-- feature-img: "img/banner/banner_projects.jpg" -->
 <!-- feature-img: "img/Kaanefoto4.jpg" enne oli see -->
 <!--Title + Project navigation -->
