@@ -21,4 +21,14 @@ peoples:
     worktitle: "Developer"
     email: "Aili.Madisson@tlu.ee"
     image: "/img/people/Aili_Mets.jpg"
+
+  - name: "David Robert Upshall"
+    worktitle: "Designer"
+    email: "david_robert.upshall@tlu.ee"
+    image: "/img/people/empty-profile.png"
+
+  - name: "Marina Kurvits"
+    worktitle: "Designer of the learning environments"
+    email: "marina.kurvits@tlu.ee"
+    image: "/img/people/Marina_Kurvits.jpg"
          

@@ -22,7 +22,7 @@ projects:
 
   - title: "IT-Teaching development in TLU 2021"
     period: "01.01.2021 - 31.12.2021"
-    program: "Harno, IT Akadeemia"
+    program: "HARNO, IT Akadeemia"
     members: "Hans Põldoja, Mart Laanpere, Maia Lust"   
     image: "img/financier_logos/HARNO.jpg"   
 
@@ -51,5 +51,23 @@ projects:
 
   - title: "Professional Digital Competencies in TLU Five Focus Fields"
     period: "01.04.2016 – 31.05.2017"
-    program: "HITSA"
+    program: "HARNO (endine HITSA)"
     members: "Kairit Tammets, Terje Väljataga, Hans Põldoja, Mart Laanpere, Kai Pata, Kaire Kollom, Veronika Rogalevitš, David Lamas, Ilja Šmorgun"
+    image: "img/financier_logos/HARNO.jpg" 
+
+  - title: "DigCompEduSAT: DigCompEdu Self-Assessment Tool"
+    period: "02.05.2018–05.12.2019"
+    program: "European Commission - Joint Research Centre"
+    members: "Mart Laanpere, Linda Helene Sillat"
+
+  - title: "GINF: Development of informatics courses for upper-secondary schools"
+    period: "15.11.2018–10.12.2019"
+    program: "HARNO (endine HITSA)"
+    members: "Mart Laanpere, Priit Tammets"
+    image: "img/financier_logos/HARNO.jpg"
+
+  - title: "Developing digital assessment tool and methodology for digital competencies in lower secondary education"
+    period: "31.01.2016–31.07.2017"
+    program: "Haridus- ja Teadusministeerium"
+    members: "Mart Laanpere"  
+    image: "img/financier_logos/HTM.jpg"   

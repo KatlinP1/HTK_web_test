@@ -1,4 +1,4 @@
-I"b[<!--Heading + navigation-->
+I"Ai<!--Heading + navigation-->
 <div class="row">
     <div class="col">
         <h1 class="text-center mt-3">People</h1>
@@ -21,7 +21,7 @@
 <!-- Title row -->
 <div class="row">
       
-      
+       
       <div class="col-12 mt-3 pb-3">
         <h2 id="support">Research support and dev staff</h2>
     </div>
@@ -82,8 +82,36 @@
         
     </div>
     
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>David Robert Upshall</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Designer</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">david_robert.upshall@tlu.ee</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
     
-      
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/Marina_Kurvits.jpg)"></div>
+    </a>
+        <h5><strong>Marina Kurvits</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Designer of the learning environments</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">marina.kurvits@tlu.ee</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
+    
+    
+       
       <div class="col-12 mt-3 pb-3">
         <h2 id="research">Research</h2>
     </div>
@@ -127,6 +155,20 @@
         
          
         <a class="pt-0 pb-2 mb-3" href="https://www.etis.ee/CV/Kairit_Tammets/est" target="_blank">Link ETIS<br /></a>
+        
+    </div>
+    
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/Tobias.jpg)"></div>
+    </a>
+        <h5><strong>Tobias Ley</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Professor of Educational Innovation and Learning Analytics</p>
+        <p class="pt-0 pb-1" style="margin: 0px;"></p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
         
     </div>
     
@@ -244,20 +286,6 @@
     
 <!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
     <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
-    <a href="https://www.etis.ee/CV/James%20Sunney_Quaicoe/est" target="_blank">
-    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
-    </a>
-        <h5><strong>James Sunney Quaicoe</strong></h5>
-        <p class="title pt-1 pb-1" style="margin: 0px;">Junior researcher</p>
-        <p class="pt-0 pb-1" style="margin: 0px;">james_sunney.quaicoe@tlu.ee</p>
-        
-         
-        <a class="pt-0 pb-2 mb-3" href="https://www.etis.ee/CV/James%20Sunney_Quaicoe/est" target="_blank">Link ETIS<br /></a>
-        
-    </div>
-    
-<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
-    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
     <a href="https://www.etis.ee/CV/Gerti_Pishtari/est" target="_blank">
     <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/Gerti_Pishtari.jpg)"></div>
     </a>
@@ -290,7 +318,7 @@
     <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/Shashi_Kant_Shankar.jpg)"></div>
     </a>
         <h5><strong>Shashi Kant Shankar</strong></h5>
-        <p class="title pt-1 pb-1" style="margin: 0px;">PhD student</p>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Junior researcher (PhD student)</p>
         <p class="pt-0 pb-1" style="margin: 0px;">shashik@tlu.ee</p>
         
          
@@ -382,8 +410,64 @@
         
     </div>
     
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>Paula Joanna Sillat</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Project Development Specialist</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">paula_joanna.sillat@tlu.ee</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
     
-      
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>Edna Milena Sarmiento Marquez</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Junior researche</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">edna_milena.sarmiento_marquez@tlu.ee</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
+    
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>Anastassia Väljamäe</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Project Development Specialist</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">anastasiia.valjamae@tlu.ee</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
+    
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>Peadar Charles Callaghan</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Project Development Specialist</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">peadar.callaghan@tlu.ee</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
+    
+    
+       
       <div class="col-12 mt-3 pb-3">
         <h2 id="admin">Administrative</h2>
     </div>
@@ -438,20 +522,6 @@
     
 <!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
     <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
-    <a>
-    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
-    </a>
-        <h5><strong>Paula Joanna Sillat</strong></h5>
-        <p class="title pt-1 pb-1" style="margin: 0px;">Projektide arendusspetsialist</p>
-        <p class="pt-0 pb-1" style="margin: 0px;">paula_joanna.sillat@tlu.ee</p>
-        
-        
-        <p class="pt-0 pb-2 mb-4"> </p>
-        
-    </div>
-    
-<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
-    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
     <a href="https://www.etis.ee/CV/Polina_Hanenko?tabId=CV_EST" target="_blank">
     <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
     </a>
@@ -466,9 +536,24 @@
         
     </div>
     
+<!--People info box   class inimeste kastil class="col-md-4 mt-4"-->
+    <div class="col-6 offset-3 offset-sm-1 offset-md-0 col-md-4 mt-4" style="height: 395px;"> 
+    <a>
+    <div class="rounded mt-3 mb-3 picture-style" style="background-image: url(/img/people/empty-profile.png)"></div>
+    </a>
+        <h5><strong>Pirgit Sillaots</strong></h5>
+        <p class="title pt-1 pb-1" style="margin: 0px;">Research Assistant</p>
+        <p class="pt-0 pb-1" style="margin: 0px;">pirgit.sillaots@tlu.ee</p>
+         
+        <p class="pt-0 pb-1" style="margin: 0px;">+372 640 9355</p>
+        
+        
+        <p class="pt-0 pb-2 mb-4"> </p>
+        
+    </div>
     
-
-
+    
+    
 <!-- esialgne pildi lahendus 
 <a >
     <img class="rounded mt-3 mb-3" src="" width="150px" height="150px">

@@ -1,0 +1,12 @@
+topic: "E-assessment"
+topic_id: 11
+#topic_id: "OTHER (New projects without topic)"
+projects:
+  - title: "Development of electronic math tests for the third stage of study"
+    period: "01.10.2019–20.11.2020"
+    program: "HARNO (endine SA Innove)"
+    members: "Jüri Kurvits, Marina Kurvits, Annika Volt"   
+    image: "img/financier_logos/HARNO.jpg" 
+
+
+

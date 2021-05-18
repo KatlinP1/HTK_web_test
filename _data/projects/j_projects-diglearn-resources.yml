@@ -1,0 +1,19 @@
+topic: "Digital Learning Resources"
+topic_id: 10
+#topic_id: "OTHER (New projects without topic)"
+projects:
+  - title: "Digital Learning Resources for Special Needs Education (Kadaka Põhikool)"
+    period: "01.09.2019–31.12.2019"
+    program: "Tallinna Kadaka Põhikool"
+    members: "Mart Laanpere, Priit Tammets"
+
+  - title: "DigiÕppeVaramu - expanding digital learning in higher education: part 3 designing, piloting and evaluating digital learning resources for secondary education mathematics (29 courses)"
+    period: "08.05.2017–31.10.2018"
+    program: "Haridus- ja Teadusministeerium"
+    members: "Mart Laanpere, Jüri Kurvits, Kairit Tammets, Sander Aido, Mart Laanpere, Priit Tammets"
+    image: img/financier_logos/HTM.jpg          
+
+  - title: "Modernizing Autosõit OÜ online learning environment and learning materials"
+    period: "01.02.2017–31.05.2018"
+    program: "Autosõit OÜ /EAS Innovatsiooni- ja arendusosakud"
+    members: "Priit Tammets, Hettel Sõrmus, Tarmo Lehari, Kairit Tammets, Linda-Helene Sillat"

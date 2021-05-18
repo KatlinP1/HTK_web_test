@@ -1,4 +1,4 @@
-I"��<!-- feature-img: "img/banner/new_projects.jpg"  -->
+I")(<!-- feature-img: "img/banner/new_projects.jpg"  -->
 <!-- feature-img: "img/banner/banner_projects.jpg" -->
 <!-- feature-img: "img/Kaanefoto4.jpg" enne oli see -->
 <!--Title + Project navigation -->
@@ -60,12 +60,17 @@
           
           
             <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
-            <a onclick="showProject('10')" id="topic-a-10" class="project-link" style="color: #4b8d89; cursor:pointer;">Other projects</a>
+            <a onclick="showProject('10')" id="topic-a-10" class="project-link" style="color: #4b8d89; cursor:pointer;">Digital Learning Resources</a>
             </div>
           
           
             <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
-            <a onclick="showProject('11')" id="topic-a-11" class="project-link" style="color: #4b8d89; cursor:pointer;">Completed projects</a>
+            <a onclick="showProject('11')" id="topic-a-11" class="project-link" style="color: #4b8d89; cursor:pointer;">E-assessment</a>
+            </div>
+          
+          
+            <div class="col col-12 col-md-2 mt-3" style="height: initial;text-align: center;font-weight: 800">
+            <a onclick="showProject('12')" id="topic-a-12" class="project-link" style="color: #4b8d89; cursor:pointer;">Other projects</a>
             </div>
             
           </div>
@@ -80,29 +85,7 @@
       
       
       
-          <div class="col-sm-6 item project-container topic-10">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                   
-                    <img class="img-fluid" src="/img/project_logos/ENROPE.jpg" />
-                
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    ENROPE: European Network for Junior Researchers in the Field of Plurilingualism and Education
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2018–31.08.2021</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ KA2</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Priit Tammets, Gleb Redko</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-10">
+          <div class="col-sm-6 item project-container topic-11">
             <div class="row">
                 <div class="col-md-12 col-lg-5">
                 
@@ -114,54 +97,12 @@
                 <div class="col">
                   <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
                   
-                    Development of electronic tests for social sciences
+                    Development of electronic math tests for the third stage of study
                     
                   </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">03.03.2020–31.12.2021</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Harno</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Mare Oja, Eve Kikas, Anu Toots, Kristiina Treial</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-10">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                   
-                    <img class="img-fluid" src="/img/financier_logos/erasmus-plus.png" />
-                
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    PARTISH: Development of part-time and short cycle studies in higher education in Bosnia and Herzegovina
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">15.01.2021–14.01.2024</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ Capacity Building</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Vladimir Tomberg</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-10">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                  
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    IC-Health - improving digital health literacy in Europe
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2016 – 31.08.2018</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Horizon 2020</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Jaanika Hirv</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.10.2019–20.11.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine SA Innove)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Jüri Kurvits, Marina Kurvits, Annika Volt</p>
                 </div>
             </div>
           </div>
@@ -209,6 +150,179 @@
                   <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2021–30.06.2023</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Horizon 2020</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Tobias Ley, Linda Helene Sillat, Maria Jesus Rodriquez-Triana, Pirgit Sillaots</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-7">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Development of self-assessment and control tool Digipeegel to support the digitization of schools
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">15.12.2018 –15.05.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine HITSA)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Kai Pata, Mart Laanpere, Külli Kori, Terje Väljataga, Kaire Kollom</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-7">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Samsung Digi Pass III
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2018–28.02.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Idea PR OÜ</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-7">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    DG-turn: Enhancing Quality of Education through Digital Innovation in Georgian Schools
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">15.08.2018–30.10.2020 (pikendatud kuni 31.03.2021)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Välisministeerium</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Eka Jeladze, Mart Laanpere, Kai Pata</p>
+                </div>
+            </div>
+          </div>
+      
+      
+      
+      
+          <div class="col-sm-6 item project-container topic-12">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/project_logos/ENROPE.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    ENROPE: European Network for Junior Researchers in the Field of Plurilingualism and Education
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2018–31.08.2021</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ KA2</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Priit Tammets, Gleb Redko</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-12">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Development of electronic tests for social sciences
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">03.03.2020–31.12.2021</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mare Oja, Eve Kikas, Anu Toots, Kristiina Treial</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-12">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    PARTISH: Development of part-time and short cycle studies in higher education in Bosnia and Herzegovina
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">15.01.2021–14.01.2024</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ Capacity Building</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Vladimir Tomberg</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-12">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    IC-Health - improving digital health literacy in Europe
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2016 – 31.08.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Horizon 2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Jaanika Hirv</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-12">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Integration of the lab-based learning to the ICT curricula of Tallinn University
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.02.2017–31.07.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine HITSA)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Priit Tammets, Romil Rõbtšenkov, Tanel Toova, Vladimir Tomberg</p>
                 </div>
             </div>
           </div>
@@ -321,8 +435,70 @@
                     
                   </h3>
                   <p style="margin-top: 5px;margin-bottom: 5px;">01.06.2018–31.12.2021</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Harno</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Terje Väljataga, Priit Tammets, Liisa Puusepp, Jaanus Terasmaa, Kadri Mettis</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-3">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Developing environmental awareness through citizen science
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.04–31.12.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Keskkonnainvesteeringute Keskus</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Terje Väljataga, Külli Kori, Kai Pata, Priit Tammets, Jaanus Terasmaa</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-3">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Citizen science competence centre
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2019–31.12.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">EU - Euroopa struktuuri- ja investeerimisfondid</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata, Külli Kori</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-3">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus_K2.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Creating competences for a circular economy
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2014-31.08.2016</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ (Key action 2: Strategic Partnerships)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Priit Tammets, Terje Väljataga</p>
                 </div>
             </div>
           </div>
@@ -572,6 +748,116 @@
             </div>
           </div>
       
+          <div class="col-sm-6 item project-container topic-5">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus_K2.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    LoeL: League of Emotion Learners
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">10.10.2018 – 30.09.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ KA2</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Triinu Jesmin</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-5">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus_K2.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    ALIEN: Active Learning in International ENgineering contexts
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">15.10.2017–14.10.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ KA2</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Martin Sillaots</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-5">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Game of Research Methods
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2020 –31.12.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (Endine HITSA)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Martin Sillaots</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-5">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus_K2.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    G.A.STEM: Enhancing STEM skills through arts and mini-games
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.10.2018 –31.03.2021</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+ KA2, Strategic Partnerships</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Martin Sillaots, Mikhail Fiadotau, Triinu Jesmin</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-5">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    MeLang: Multilingual Exploration of Languages in Europe
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.12.2014-30.06.2017</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">European Commission, Erasmus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Martin Sillaots</p>
+                </div>
+            </div>
+          </div>
+      
       
       
       
@@ -657,7 +943,7 @@
                     
                   </h3>
                   <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2021 - 31.12.2021</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Harno, IT Akadeemia</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO, IT Akadeemia</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Hans Põldoja, Mart Laanpere, Maia Lust</p>
                 </div>
             </div>
@@ -753,7 +1039,9 @@
             <div class="row">
                 <div class="col-md-12 col-lg-5">
                 
-                  
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
                 
                 </div>
                 <div class="col">
@@ -763,8 +1051,72 @@
                     
                   </h3>
                   <p style="margin-top: 5px;margin-bottom: 5px;">01.04.2016 – 31.05.2017</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">HITSA</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine HITSA)</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Terje Väljataga, Hans Põldoja, Mart Laanpere, Kai Pata, Kaire Kollom, Veronika Rogalevitš, David Lamas, Ilja Šmorgun</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-8">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    DigCompEduSAT: DigCompEdu Self-Assessment Tool
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">02.05.2018–05.12.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">European Commission - Joint Research Centre</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere, Linda Helene Sillat</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-8">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    GINF: Development of informatics courses for upper-secondary schools
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">15.11.2018–10.12.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine HITSA)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere, Priit Tammets</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-8">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HTM.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Developing digital assessment tool and methodology for digital competencies in lower secondary education
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">31.01.2016–31.07.2017</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Haridus- ja Teadusministeerium</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere</p>
                 </div>
             </div>
           </div>
@@ -810,7 +1162,7 @@
                     
                   </h3>
                   <p style="margin-top: 5px;margin-bottom: 5px;">01.02.2021 - 30.22.2023</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Harno</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Grete Arro, Kati Aus, Milena Edna Sarmiento Marquez</p>
                 </div>
             </div>
@@ -901,6 +1253,46 @@
                   <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2016 – 30.08.2018</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+</p>
                   <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Kaire Kollom, Adolfo Ruiz Calleja</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-6">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Educational Data Pilots for Tallinn University: Demonstrating the Practical Benefits for Multiple Stakeholders
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2018–31.12.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">TLÜ uuringufond</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Terje Väljataga, Maria Jesus Rodrquez Triana, Luis Pablo Prieto Santos, Gerti Pishtari, Shashi Kant Shankar, Kadri Mettis, Kaire Kollom, Tobias Ley</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-6">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Strengthening data-informed decision-making in education through improvement of the education monitoring system (OECD uuring)
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2020–28.02.2021</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">OECD</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Kaire Kollom, Eve Eisenschmidt, Kätlin Vanari, Katrin Rääk, Mikk Kasesalk</p>
                 </div>
             </div>
           </div>
@@ -1114,134 +1506,7 @@
             </div>
           </div>
       
-      
-      
-      
-          <div class="col-sm-6 item project-container topic-11">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                  
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    SDLAB - Software Development Lab Creation at the School of Digital Technologies, Tallinn University
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">01.03.2016 – 01.05.2017</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">HITSA</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Ilja Šmorgun, David Lamas</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-11">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                  
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    IDLAB/UXLAB - Interaction Design Lab upgrade including new User Experience Evaluation toolbox at the School of Digital Technologies, Tallinn University
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">01.03.2016 – 01.05.2017</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">HITSA</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Aleksander Väljamäe, David Lamas</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-11">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                  
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    ICT Solutions for Estonian History Museum history centre
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">14.10.2016 – 31.01.2018</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Kesaten Invest OÜ</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-11">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                   
-                    <img class="img-fluid" src="/img/financier_logos/ETAG.jpg" />
-                
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    GOPROSOCIAL: Neurocinematic System for Assessing and Training Prosocial Behaviors
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2017 – 31.12.2020</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Estonian Researh Agency</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Aleksander Väljamäe, Anastassiia Väljamäe, Sonia Sousa</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-11">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                   
-                    <img class="img-fluid" src="/img/financier_logos/Nordplus.jpg" />
-                
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    Collective Dreaming: Experimental Interaction Design course for non-ICT audiences
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">15.06.2016 - 01.10.2017</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Nordplus</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Aleksander Väljamäe, Mati Mõttus, David Lamas, Sonia Sousa, Ilja Šmorgun</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-11">
-            <div class="row">
-                <div class="col-md-12 col-lg-5">
-                
-                  
-                
-                </div>
-                <div class="col">
-                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                  
-                    Aapele - Algorithms, Architectures and Platforms for Enhanced Living Environments
-                    
-                  </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">01.05.2016 – 30.04.2017</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">EC, COST</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">David Lamas, Sonia Sousa, Ilja Šmorgun</p>
-                </div>
-            </div>
-          </div>
-      
-          <div class="col-sm-6 item project-container topic-11">
+          <div class="col-sm-6 item project-container topic-1">
             <div class="row">
                 <div class="col-md-12 col-lg-5">
                 
@@ -1253,35 +1518,205 @@
                 <div class="col">
                   <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
                   
-                    PT&amp;SCHE - Introduction of part-time and short cycle studies in Serbia
+                    ABC to VLE: beyond curriculum design
                     
                   </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">15.10.2015 - 14.10.2018</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus+, Higher Education - International Capacity Building</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">Vladimir Tomberg, Pirgit Voolaid</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2018–31.08.2020</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus + KA2</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Linda Helene Sillat, Kaire Kollom</p>
                 </div>
             </div>
           </div>
       
-          <div class="col-sm-6 item project-container topic-11">
+          <div class="col-sm-6 item project-container topic-1">
             <div class="row">
                 <div class="col-md-12 col-lg-5">
                 
-                    <a href="/test"> 
-                      <img class="img-fluid" src="https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg" />
-                      
-                    </a> 
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus-plus.png" />
+                
                 
                 </div>
                 <div class="col">
                   <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
-                   
-                    <a href="/test" style="color: #4b8d89;">TEST 2</a>
+                  
+                    GLAT: Games for Learning Algorithmic Thinking
                     
                   </h3>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">something</p>
-                  <p style="margin-top: 5px;margin-bottom: 5px;">someone</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">02.10.2017–01.10.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Erasmus + KA2</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">James Sunney Quaicoe, Mart Laanpere</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-1">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Developing mathematics teacher master program students digital competencies through integration between subjects of subject-specific didactics module
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.01.2017–31.01.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine HITSA)- IT Akadeemia</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Jüri Kurvits, Madis Lepik, Tiiu Kaljas</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-1">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HARNO.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Competence center for educational innovations in Tallinn University
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.05.2017–31.08.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">HARNO (endine SA Innove)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kristi Vinter-Nemvalts, Mati Heidmets, Katrin Poom-Valickis, Eve Eisenschmidt, Priit Tammets, Kristi Vinter-Nemvalts, Kairit Tammets, Pille Slabina, Ann Leppiman, Maarja Hallik, Priit Kruus, Katrin Karu, Katrin Aava, Triin Lauri, Mare Oja, Natalia Tshuikina, Edna Vahter, Katrin Soika, Eneli Põld, Aleksandra Ljalikova, Elle Rajandu, Elina Ojamets, Anne Uusen, Kristi Paas, Merilin Aruvee, Reeli Liivik, Marit Sukk, Valentina Paas</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-1">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Learning Layers: Scaling up Technologies for Informal Learning in SME Clusters
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.11.2012–31.12.2016</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">European Commission (Euroopa Komisjon)</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Tobias Ley, Priit Tammets, Kairit Tammets, Kai Pata, Vladimir Tomberg, David Lamas, Adolfo Ruiz Calleja, Pjotr Savitski, Mart Laanpere, Mati Mõttus</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-1">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    EMMA: European Multiple MOOC Aggregator
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.02.2014–31.07.2016</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">European Commission - CIP - Competitiveness and Innovation Framework Programme</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kairit Tammets, Priit Tammets</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-1">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/erasmus-plus.png" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Creative Classroom
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2014-31.08.2016</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Euroopa Liit, Erasmus+</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Kai Pata, Terje Väljataga, Hans Põldoja, Mart Laanpere</p>
+                </div>
+            </div>
+          </div>
+      
+      
+      
+      
+          <div class="col-sm-6 item project-container topic-10">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Digital Learning Resources for Special Needs Education (Kadaka Põhikool)
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.09.2019–31.12.2019</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Tallinna Kadaka Põhikool</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere, Priit Tammets</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-10">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                   
+                    <img class="img-fluid" src="/img/financier_logos/HTM.jpg" />
+                
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    DigiÕppeVaramu - expanding digital learning in higher education: part 3 designing, piloting and evaluating digital learning resources for secondary education mathematics (29 courses)
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">08.05.2017–31.10.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Haridus- ja Teadusministeerium</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Mart Laanpere, Jüri Kurvits, Kairit Tammets, Sander Aido, Mart Laanpere, Priit Tammets</p>
+                </div>
+            </div>
+          </div>
+      
+          <div class="col-sm-6 item project-container topic-10">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                
+                  
+                
+                </div>
+                <div class="col">
+                  <h3 class="name" style="color: #4b8d89; margin-top: -2px;">
+                  
+                    Modernizing Autosõit OÜ online learning environment and learning materials
+                    
+                  </h3>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">01.02.2017–31.05.2018</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Autosõit OÜ /EAS Innovatsiooni- ja arendusosakud</p>
+                  <p style="margin-top: 5px;margin-bottom: 5px;">Priit Tammets, Hettel Sõrmus, Tarmo Lehari, Kairit Tammets, Linda-Helene Sillat</p>
                 </div>
             </div>
           </div>

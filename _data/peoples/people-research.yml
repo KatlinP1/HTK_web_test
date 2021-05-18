@@ -19,6 +19,10 @@ peoples:
     image: "/img/people/Kairit_Tammets.jpg"
     etis: "https://www.etis.ee/CV/Kairit_Tammets/est"
 
+  - name: "Tobias Ley"
+    worktitle: "Professor of Educational Innovation and Learning Analytics"
+    image: "/img/people/Tobias.jpg"    
+
   - name: "Terje Väljataga"
     worktitle: "Senior Researcher of Educational technology"
     email: "Terje.Valjataga@tlu.ee"
@@ -67,12 +71,6 @@ peoples:
     image: "/img/people/Linda_Helene_Sillat.jpg"
     etis: "https://www.etis.ee/CV/Linda%20Helene_Sillat/est"
 
-  - name: "James Sunney Quaicoe"
-    worktitle: "Junior researcher"
-    email: "james_sunney.quaicoe@tlu.ee"
-    image: "/img/people/empty-profile.png"
-    etis: "https://www.etis.ee/CV/James%20Sunney_Quaicoe/est"
-
   - name: "Gerti Pishtari"
     worktitle: "Junior researcher (PhD student)"
     email: "Gerti.Pishtari@tlu.ee"
@@ -86,7 +84,7 @@ peoples:
     etis: "https://www.etis.ee/CV/Eka_Jeladze/est"
 
   - name: "Shashi Kant Shankar"
-    worktitle: "PhD student"
+    worktitle: "Junior researcher (PhD student)"
     email: "shashik@tlu.ee"
     image: "/img/people/Shashi_Kant_Shankar.jpg"
     etis: "https://www.etis.ee/CV/Shashi%20Kant_Shankar/est"
@@ -126,3 +124,22 @@ peoples:
     image: "/img/people/empty-profile.png"
     etis: "https://www.etis.ee/CV/Kadri_Mettis/est"
 
+  - name: "Paula Joanna Sillat"
+    worktitle: "Project Development Specialist"
+    email: "paula_joanna.sillat@tlu.ee"
+    image: "/img/people/empty-profile.png" 
+
+  - name: "Edna Milena Sarmiento Marquez"
+    worktitle: "Junior researche"
+    email: "edna_milena.sarmiento_marquez@tlu.ee"
+    image: "/img/people/empty-profile.png"   
+
+  - name: "Anastassia Väljamäe"
+    worktitle: "Project Development Specialist"
+    email: "anastasiia.valjamae@tlu.ee"
+    image: "/img/people/empty-profile.png"           
+
+  - name: "Peadar Charles Callaghan"
+    worktitle: "Project Development Specialist"
+    email: "peadar.callaghan@tlu.ee"
+    image: "/img/people/empty-profile.png" 

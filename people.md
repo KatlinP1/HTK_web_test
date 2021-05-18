@@ -27,7 +27,7 @@ feature-img: "img/posts/jtel2016.png"
 <!-- Title row -->     
 <div class="row">
       {% for hash in site.data.peoples %}
-      {% assign people_sub = hash[1] %}
+      {% assign people_sub = hash[1] %} 
       <div class="col-12 mt-3 pb-3">
         <h2 id="{{people_sub.topic_id}}">{{people_sub.topic}}</h2>
     </div>
@@ -51,8 +51,7 @@ feature-img: "img/posts/jtel2016.png"
     </div>
     {% endfor %}
     {% endfor %}
-
-
+    
 <!-- esialgne pildi lahendus 
 <a {% if people.etis %}  href="{{people.etis}}" target="_blank" {% endif %}>
     <img class="rounded mt-3 mb-3" src="{{people.image}}" width="150px" height="150px">

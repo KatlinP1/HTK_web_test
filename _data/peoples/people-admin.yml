@@ -18,12 +18,7 @@ peoples:
     worktitle: "Assistant"
     email: "Ramune.Tuulik@tlu.ee"
     phone: "+372 640 9355"
-    image: "/img/people/Ramune_Tuulik.jpg" 
-
-  - name: "Paula Joanna Sillat"
-    worktitle: "Projektide arendusspetsialist"
-    email: "paula_joanna.sillat@tlu.ee"
-    image: "/img/people/empty-profile.png"     
+    image: "/img/people/Ramune_Tuulik.jpg"     
 
   - name: "Polina Hanenko"
     worktitle: "Research Assistant"
@@ -31,3 +26,9 @@ peoples:
     phone: "+372 640 9355"
     image: "/img/people/empty-profile.png"
     etis: "https://www.etis.ee/CV/Polina_Hanenko?tabId=CV_EST"       
+
+  - name: "Pirgit Sillaots"
+    worktitle: "Research Assistant"
+    email: "pirgit.sillaots@tlu.ee"
+    phone: "+372 640 9355"
+    image: "/img/people/empty-profile.png"     
