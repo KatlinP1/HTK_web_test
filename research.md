@@ -80,19 +80,19 @@ feature-img: "img/banner/new_research.jpg"
 <p style="text-align: justify;">Research group aims to enhance educational practices of formal and informal inquiry learning with the location-and sensor-based technologies. Goal is to investigate smart city approaches where learning services and the co-creation of learning are part of the smart city as a socio-technical environment. Smart classroom activities and learning outside the classroom supporting inquiry-based learning by using sensor technologies is seen as part of that STEM movement in the design of the learning activities. Improving STE(A)M education is considered important to enhance the learners' design thinking skills and digital competences through technology innovation projects.</p>
     <strong>Related ongoing projects:</strong>
     <li>
-        <strong>INOS: Integrating open and citizen science into active learning approaches in higher education</strong>-  The Erasmus+ funded project is piloting open and citizen science activities in higher education context and develops learning resources, project contributes in increasing public engagement of HE students and staff to the society.
+       <a href="/project/steam/inso/"> <strong>INOS: Integrating open and citizen science into active learning approaches in higher education</strong></a> -  The Erasmus+ funded project is piloting open and citizen science activities in higher education context and develops learning resources, project contributes in increasing public engagement of HE students and staff to the society.
     </li>
     <li>
-        <strong>TeaEdu4CT: Future Teachers Education: Computational Thinking and STEAM</strong>-The project, funded by Erasmus+ develops innovative educational approaches to practical STEAM education that are based on Computational Thinking as related to trans-disciplinary and holistic STEAM perspectives. 
+        <a href="/project/steam/teaEdu4CT/"><strong>TeaEdu4CT: Future Teachers Education: Computational Thinking and STEAM</strong></a>-The project, funded by Erasmus+ develops innovative educational approaches to practical STEAM education that are based on Computational Thinking as related to trans-disciplinary and holistic STEAM perspectives. 
     </li>
     <li>
-        <strong>TINTIN: TeachINg about climate change in schools whilsT addressINg fake news and constructive journalism</strong>- The goal of the Erasmus+ funded project is to support teachers and schools in the education of climate change and sustainability by providing them with the tools, increasing awareness and critical thinking, collaborative and communicative skills and also introducing journalism, research and misconceptions.
+        <a href="/project/steam/tintin/"><strong>TINTIN: TeachINg about climate change in schools whilsT addressINg fake news and constructive journalism</strong></a>- The goal of the Erasmus+ funded project is to support teachers and schools in the education of climate change and sustainability by providing them with the tools, increasing awareness and critical thinking, collaborative and communicative skills and also introducing journalism, research and misconceptions.
     </li>
     <li>
-        <strong>DOSE: Development of steam education</strong>- The objective of the Erasmus+ funded project is to lead European schools in the improvement of existing STEAM approaches.
+        <a href="/project/steam/dose/"><strong>DOSE: Development of steam education</strong></a>- The objective of the Erasmus+ funded project is to lead European schools in the improvement of existing STEAM approaches.
     </li>
     <li>
-        <strong>Outdoor learning in schools to integrate different subjects</strong>- The aim of the project is to develop the integration of various subjects in the field of the STEAM concept in such a way that the integration of the natural sciences subjects. Funded by the Estonian Education and Youth Board. 
+        <a href="/project/steam/outdoorlearinginschools/"><strong>Outdoor learning in schools to integrate different subjects</strong></a>- The aim of the project is to develop the integration of various subjects in the field of the STEAM concept in such a way that the integration of the natural sciences subjects. Funded by the Estonian Education and Youth Board. 
     </li>
     <p><strong>Research group:</strong> Kai Pata, Mart Laanpere, Terje Väljataga, Külli Kori, Priit Tammets, Gerti Pishtari, Pjotr Savitski, Kadri Mettis, Liisa Puusepp, Jaanus Terasmaa </p>
 </div>

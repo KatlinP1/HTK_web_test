@@ -7,24 +7,28 @@ projects:
     program: "Erasmus+ KA203"
     members: "Luis Pablo Prieto Santos, Tobias Ley"
     image: "img/project_logos/DE-TEL1.jpg"
+    url: "/project/tel/detel/"
 
   - title: "Assessing CT in Nordic Maker Education"
     period: "01.08.2020–31.07.2022"
     program: "Nordplus Horizontal 2020"
     members: "Mart Laanpere, Maia Lust"
-    image: "img/financier_logos/Nordplus.jpg"  
+    image: "img/financier_logos/Nordplus.jpg"
+    url: "/project/tel/assessing-ct/"  
 
   - title: "Experiences of distance learning due to an emergency situation and its impact on the Estonian education system"
     period: "15.05.2020–30.06.2021"
     program: "Haridus- ja Teadusministeerium"
     members: "Kairit Tammets, Mart Laanpere, Terje Väljataga, Kaire Kollom, Eve Eisenschmidt, Piret Soodla, Tiiu Tammemäe, Mikk Granström, Tobias Ley, Paul Seitlinger, Krista Loogma, Meidi Sirk, Paula Joanna Sillat"
-    image: img/financier_logos/HTM.jpg    
+    image: "img/financier_logos/HTM.jpg"
+    url: "/project/tel/emergency-situation/"      
 
   - title: "ABC to VLE: beyond curriculum design" 
     period: "01.09.2018–31.08.2020"
     program: "Erasmus + KA2"
     members: "Linda Helene Sillat, Kaire Kollom"
-    image: img/financier_logos/erasmus-plus.png   
+    image: "img/financier_logos/erasmus-plus.png"
+    url: "/project/tel/abc-vle/"    
 
   - title: "GLAT: Games for Learning Algorithmic Thinking" 
     period: "02.10.2017–01.10.2019"

@@ -1,0 +1,29 @@
+I"�<table class="table table-border">
+  <thead>
+    <tr>
+      <th><strong>Project period</strong></th>
+      <th><strong>Funded by</strong></th>
+      <th><strong>Local coordinator</strong></th>
+      <th><strong>Project members</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>15.11.2018–10.12.2019</td>
+      <td>HITSA</td>
+      <td>Mart Laanpere</td>
+      <td>Priit Tammets</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="project-overview">Project overview</h4>
+<p>Creation of six informatics selective courses for upper secondary and vocational secondary education. The original assignment applied to all selective optional courses. The selective courses are as follows: Course 1: “Programming”; Course 2: “Software development”; Course 3: “User-centric design and prototyping”; Course 4: “Software Analysis and Testing”; Course 5: “Digital Services”; Course 6: “Digital Development Project”.</p>
+
+<p><strong>Project logos</strong></p>
+<div> 
+    <img class="img-fluid-innews" src="/img/financier_logos/erasmus_K2.jpg" alt="EU erasmus logo" />
+    <img class="img-fluid-innews" src="/img/project_logos/HUMAN-2.jpg" alt="project logo" />
+    <img class="img-fluid-innews" src="/img/project_logos/HUMAN.jpg" alt="project logo" />
+</div>
+:ET

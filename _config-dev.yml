@@ -6,6 +6,8 @@ url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 plugins: 
   - jekyll-paginate
 
+include:
+  - project
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -79,7 +81,7 @@ gems: [jekyll-paginate]
 # Navigation
 navigation:
 - title: Home
-  url: /index
+  url: /
 - title: Research
   url: /research
   sub:
@@ -93,8 +95,8 @@ navigation:
   url: /news
 - title: People 
   url: /people 
-- title: About us
-  url: /about/
+- title: About
+  url: /about
   sub:
     - title: About us
       url: /about

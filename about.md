@@ -1,7 +1,7 @@
 ---
 layout: page-small-header
 title: About us
-permalink: /about
+permalink: /about/
 feature-img: "img/banner/about_banner.jpg"
 ---
 <!--Heading-->

@@ -1,0 +1,29 @@
+I""<table class="table table-border">
+  <thead>
+    <tr>
+      <th><strong>Project period</strong></th>
+      <th><strong>Funded by</strong></th>
+      <th><strong>Local coordinator</strong></th>
+      <th><strong>Project members</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01.01.2021 - 31.12.2021</td>
+      <td>Harno, IT Akadeemia</td>
+      <td>Hans Põldoja</td>
+      <td>Mart Laanpere, Maia Lust</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="project-overview">Project overview</h4>
+<p>Conducting a master ‘s program in Computer Science and development activities; supporting the activities of the research field of Informatics Didactics; supporting the activities of the IT Teachers’ Center</p>
+
+<p><strong>Project logos</strong></p>
+<div> 
+    <img class="img-fluid-innews" src="/img/financier_logos/erasmus_K2.jpg" alt="EU erasmus logo" />
+    <img class="img-fluid-innews" src="/img/project_logos/HUMAN-2.jpg" alt="project logo" />
+    <img class="img-fluid-innews" src="/img/project_logos/HUMAN.jpg" alt="project logo" />
+</div>
+:ET
