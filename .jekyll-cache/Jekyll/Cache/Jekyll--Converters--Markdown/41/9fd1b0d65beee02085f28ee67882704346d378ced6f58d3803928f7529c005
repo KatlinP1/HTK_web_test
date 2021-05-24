@@ -1,0 +1,224 @@
+I"�K<!-- "img/banner/research-themes.jpg"  -- >
+<!--feature-img: "img/research2.jpg" enne oli see pilt -->
+<!--Title + introduction-->
+<div class="container">
+    <div class="row">
+         <div class="col col-md-10 offset-md-1">
+            <h1 class="text-center mt-3">Research</h1>
+             <div class="divider-center mt-2 mb-2">
+                <div class="divider-line-1"></div>
+                <div class="divider-line-2"></div>
+            </div>
+        <p style="text-align: justify;" id="p">Interdiscplinary research activities of the Centre for Educational Technology focuses on theoretical and practical challenges related to educational uses of technologies for teaching and learning in formal and informal educational settings. Projects and activities are alinged around following research strands:</p>
+<div>
+
+<!--Navigation menu of research topics-->
+<div class="row" style="height: initial;margin-bottom: 30px;">
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(1)">
+        <a href="#steam_research" style="color: #4b8d89;" class="research-link link-1">STE(A)M education and Citizen science</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(2)">
+        <a href="#digitaltransform_research" style="color: #4b8d89;" class="research-link link-2">Digital Transformation</a></div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(3)">
+        <a href="#digitalcomp_research" style="color: #4b8d89;" class="research-link link-3">Digital competences</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(4)">
+        <a href="#learning_research" style="color: #4b8d89;" class="research-link link-4">Evidence-based teaching and learning practices</a>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-2 mt-3" style="height: initial;text-align: center;font-weight: 800;" onclick="showElement(5)">
+        <a href="#game_research" style="color: #4b8d89;" class="research-link link-5">Game-based learning</a>
+    </div>
+</div>
+
+<!--Navigation function-->
+<script>
+  function showElement(id){
+    hideElements();
+    makeLinkActive(id);
+    var id = "p"+id;
+    var elem = document.getElementById(id);
+    if(elem!==null){
+      elem.style.display = 'block';
+    }
+    
+  }
+  function hideElements(){
+    var elems = document.getElementsByClassName('research-elem');
+
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].style.display = 'none';
+    }
+  }
+
+  function makeLinkActive(topicId){ 
+
+    var elems = document.getElementsByClassName('research-link active');
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].classList.remove("active");
+    }
+
+    elems = document.getElementsByClassName('research-link link-'+topicId); 
+    for (var i = 0; i < elems.length; i ++) {
+        elems[i].classList.add("active");
+    }
+     
+  }
+
+</script>
+
+<!--Short descriptsions about research topics-->
+<!--STE(A)M education and Citizen science-->
+<div id="p1" class="research-elem">
+<h2 class="mt-5">STE(A)M education and Citizen science</h2>
+<p style="text-align: justify;">Research group aims to enhance educational practices of formal and informal inquiry learning with the location-and sensor-based technologies. Goal is to investigate smart city approaches where learning services and the co-creation of learning are part of the smart city as a socio-technical environment. Smart classroom activities and learning outside the classroom supporting inquiry-based learning by using sensor technologies is seen as part of that STEM movement in the design of the learning activities. Improving STE(A)M education is considered important to enhance the learners' design thinking skills and digital competences through technology innovation projects.</p>
+    <strong>Related ongoing projects:</strong>
+    <li>
+       <a href="/project/steam/inso/"> <strong>INOS: Integrating open and citizen science into active learning approaches in higher education</strong></a> -  The Erasmus+ funded project is piloting open and citizen science activities in higher education context and develops learning resources, project contributes in increasing public engagement of HE students and staff to the society.
+    </li>
+    <li>
+        <a href="/project/steam/teaEdu4CT/"><strong>TeaEdu4CT: Future Teachers Education: Computational Thinking and STEAM</strong></a>-The project, funded by Erasmus+ develops innovative educational approaches to practical STEAM education that are based on Computational Thinking as related to trans-disciplinary and holistic STEAM perspectives. 
+    </li>
+    <li>
+        <a href="/project/steam/tintin/"><strong>TINTIN: TeachINg about climate change in schools whilsT addressINg fake news and constructive journalism</strong></a>- The goal of the Erasmus+ funded project is to support teachers and schools in the education of climate change and sustainability by providing them with the tools, increasing awareness and critical thinking, collaborative and communicative skills and also introducing journalism, research and misconceptions.
+    </li>
+    <li>
+        <a href="/project/steam/dose/"><strong>DOSE: Development of steam education</strong></a>- The objective of the Erasmus+ funded project is to lead European schools in the improvement of existing STEAM approaches.
+    </li>
+    <li>
+        <a href="/project/steam/outdoorlearinginschools/"><strong>Outdoor learning in schools to integrate different subjects</strong></a>- The aim of the project is to develop the integration of various subjects in the field of the STEAM concept in such a way that the integration of the natural sciences subjects. Funded by the Estonian Education and Youth Board. 
+    </li>
+    <p><strong>Research group:</strong> Kai Pata, Mart Laanpere, Terje Väljataga, Külli Kori, Priit Tammets, Gerti Pishtari, Pjotr Savitski, Kadri Mettis, Liisa Puusepp, Jaanus Terasmaa </p>
+</div>
+
+<!--Digital Transformation -->
+<div id="p2" class="research-elem">
+<h2 id="digitaltransform_research" class="mt-5">Digital Transformation</h2>
+<p style="text-align: justify;">Research group aims to investigate the digital transformation at the organizations and how it can be explained and influenced. Also group focuses on understanding individual and organisational level learning processes and cross-institutional knowledge creation opportunities.</p>
+    <strong>Related ongoing projects:</strong>
+    <li>
+        <a href="/project/digitrans/iHUB4Schools/"><strong>iHUB4Schools: Accelerating Digital Innovation in Schools through Regional Innovation Hubs and a Whole-School Mentoring Model</strong></a>- The Horizon 2020 funded project will propose mechanisms to accelerate whole-school digital innovation in and across schools through establishment of Regional Innovation Hubs.
+    </li>
+    <li>
+        <a href="/project/digitrans/shepra/"><strong>SHERPA: SELFIE HElpeR &amp; Pedagogical innovation Assistant</strong></a>- The project aims at widening, deepening and accelerating digital innovation in European schools by improving SELFIE-driven data-inspired and participatory decision making in the school development process. Funded by Erasmus+. 
+    </li>
+    <li>
+        <strong>Digital Mirror</strong>- The goal of this project is to develop a framework and tools for supporting self-evaluation of schools' digital maturity. In collaboration with Ministry of Education and Science. 
+    </li>
+    <li>
+        <a href="/project/digitrans/dgturn/"><strong>DG-turn: Enhancing Quality of Education through Digital Innovation in Georgian Schools</strong></a>- Funded by Ministry of Foreign Affairs, this project aims to develop a training program for Georgian schools to promote their digital innovation and maturity.
+    </li>
+    <p><strong>Research group:</strong> Kairit Tammets, Tobias Ley, Linda Helene Sillat, Maria Jesus Rodriquez-Triana, Pirgit Sillaots, Eka Jeladze, Mart Laanpere, Kai Pata, Vladimir Tomberg, Priit Tammets, Pjotr Savitski </p>
+</div>
+
+<!--Digital competences-->
+<div id="p3" class="research-elem">
+<h2 id="digitalcomp_research" class="mt-5">Digital competences</h2>
+<p style="text-align: justify;">Research group aims to investigate the methodologies for assessing digital competences and develop framework and tool for evaluating domain-specific digital competences. Group is involved in different national and international research- and policy-level intiatives and specific focus of assessing digital competences is on teacher education.</p>
+<strong>Related ongoing projects:</strong>
+    <li>
+        <a href="/project/digicomp/human/"><strong>HUM@N: Digital Transformation in Humanities</strong></a>- The project aims to develop a set of tools and guidelines addressed to higher education educators/professors in the field of humanities to improve their ICT skills, teaching performance and consequently the attainment of their students and motivation. Funded by Erasmus+.
+    </li>
+    <li>
+        <a href="/project/digicomp/digcompedu/"><strong>DigCompEdu: Pilot study of the "self-reflection tool" based on the European Framework for the Digital Competence of Educators</strong></a>- Adaptation and testing of the "SELFIE for Teachers" tool for self-assessment of teachers' digital competences in Estonia, Lithuania, Italy and Portugal. Joint Research Centre project.
+    </li>
+    <li>
+        <a href="/project/digicomp/scaffolding-thinking/"><strong>Scaffolding Computational Thinking - Enhancing Nordic Teacher Education</strong></a>- The Nordplus funded project aims at developing a set of digital learning resources for teacher education on teaching computational thinking.
+    </li>
+    <li>
+        <a href="/project/digicomp/digital-ecosystem/"><strong>Professional Development Digital Ecosystem for the Educators</strong></a>- The project focuses on developing educator’s professional development digital ecosystem. Funded by Estonian Research Council. 
+    </li>
+    <li>
+        <a href="/project/digicomp/noteleb/"><strong>NOTELEB: No teacher left behind</strong></a>- An Erasmus+ funded project to support teacher educators’ lifelong learning in the context of their work with children and youth through continuous professional development.
+    </li>
+    <li>
+        <a href="/project/digicomp/it-teaching/"><strong>IT-Teaching development in TLU 2021</strong></a>- Conducting a master 's program in Computer Science and development activities; supporting the activities of the research field of Informatics Didactics; supporting the activities of the IT Teachers' Center. Funded by the Estonian Education and Youth Board.
+    </li>
+    <li>
+        <strong>Leading universities - catalysts for change</strong>- Erasmus+ funded project to develop academic management, developing thinking skills and establish a motivation system for academic staff.
+    </li>
+    <li>
+        <a href="/project/digicomp/digicomporg/"><strong>DigCompOrg</strong></a>- Funded by EC JRC program. The aim is to pilot DigCompEdu framework with Estonian teachers. TLU is also contributing to the development of methodology and supporting tool.
+    </li>
+    <li>
+        <a href="/project/tel/abc-vle/"><strong>ABC to VLE: beyond curriculum design</strong></a>- Erasmus+ project to develop, implement, evaluate and disseminate a rapid development learning design method in the form of a downloadable 'pack' to help university and college teachers design ICT rich blended courses, investigating a range of pedagogical, technological, support, quality, cross-cultural and strategic issues.
+    </li>
+    <li>
+        <strong>IT-Teaching development at the Tallinn University</strong>- Funded by the Estonian Education and Youth Board to enhance the quality of teaching informatics teachers through updating the teacher training curriculum.
+    </li>
+    <p><strong>Research group:</strong> Mart Laanpere, Linda Helene Sillat, Kairit Tammets, Maia Lust, Hans Põldoja, Krista Loogma, Priit Tammets, Tobias Ley, Manisha Khulbe, Pjotr Savitski. </p>
+</div>
+
+<!--Evidence-based teaching and learning practices-->
+<div id="p4" class="research-elem">
+<h2 id="learning_research" class="mt-5">Evidence-based teaching and learning practices</h2> 
+<p style="text-align: justify;">Group is tightly integrated with other research groups to investigate possibilities for implementing evidence-based decision making in the technology-enhanced learning research and practice. The focus is on LA infrastructure, development of LA tools and also LA-driven processes in classroom and organisational level.
+</p>
+<strong>Related ongoing projects:</strong>
+    <li>
+        <a href="/project/evidenceinfo/illumine/"><strong>Illumine: A community for exploring and sharing uses of evidence-based teaching strategies</strong></a>- The Erasmus+ funded project contributes to improving the quality of learning and teaching in school education by supporting teachers (pre-service and in-service) with digital open educational resources to aid in planning and delivering learning experiences with the use of technology that are based on the science of learning. 
+    </li>
+    <li>
+        <a href="/project/digicomp/digital-ecosystem/"><strong>Professional Development Digital Ecosystem for the Educators</strong></a>- Project focusing on developing educator’s professional development digital ecosystem. Funded by Estonian Research Council. 
+    </li>
+    <li>
+       <a href="/project/digicomp/noteleb/"><strong>NOTELEB: No teacher left behind</strong></a>- An Erasmus+ funded project to support teacher educators’ lifelong learning in the context of their work with children and youth through continuous professional development.
+    </li>
+    <li>
+        <a href="/project/evidenceinfo/impact/"><strong>Impact of 1:1 computing and teaching strategies to students' conceptual understanding</strong></a>- The project aims to validate and implement evidence-based solutions, advise teachers and find the most mobile one-to-one devices for these practical tests. Funded by the Estonian Education and Youth Board.
+    </li>
+    <li>
+        <a href="/project/evidenceinfo/installed/"><strong>INSTALL-ed: Increasing Self-regulated learning with Technology-Amplified Learning for ALL: Educators going digital</strong></a>- The Erasmus+ funded project related to the COVID-19 pandemic. INSTALL-ed aims to deliver theory based user friendly solutions for online, hybrid and blended learning that teachers and students can use in their everyday school to make learning and teaching more efficient and enjoyable. 
+    </li>
+    <li>
+        <strong>eDidaktikum: competence-based collaborative learning environment for teacher education</strong>- Funded by Ministry of Education and Science to promote evidence-based decision making in teacher education by enhancing research-driven curriculum design and shaping the development of pre-service teachers' self-regulated learning skills.
+    </li>
+    <p><strong>Research group:</strong> Kairit Tammets, Mart Laanpere, Tobias Ley, Kaire Kollom, Shashi Kant Shankar, Linda Helene Sillat, Adolfo Ruiz Calleja, Tobias Ley, Maria Jesus Rodriguez Triana, Luis Pablo Prieto, Terje Väljataga, Gerti Pishtari, Merike Saar, Krista Loogma, Grete Arro, Kati Aus, Edna Milena Sarmiento Marquez, Pjotr Savitski, Yagmur Cisem Yilmaz. </p>
+</div>
+
+<!--Game-based learning -->
+<div id="p5" class="research-elem">
+<h2 id="game_research" class="mt-5">Game-based learning</h2>
+<p style="text-align: justify;">The team works on serious game concept application, as well as gamifying learning.</p>
+<strong>Related ongoing projects:</strong>
+    <li>
+        <a href="/project/game/vie/"><strong>VIE: Virtual presence in Higher Education Hybrid Learning Delivery</strong></a>- VIE aims to design and implement a highly interactive digital collaborative learning platform that will allow learners to actively work together in groups in real-time or asynchronously on jointly owned projects through a commonly owned digital workspace. Erasmus+ funded project. 
+    </li>
+    <li>
+        <a href="/project/game/magnus/"><strong>MAGnUS: Developing Master Programmes in Mobile Applications and Game Design at Partner Universities</strong></a>- The goal of the project is to enhance the quality of IT education and employability of the IT graduates of RU and AZ universities through introducing the-state-of-the art Master program in line with Bologna provisions. Erasmus+ funded Project.
+    </li>
+    <li>
+        <a href="/project/game/masce3/"><strong>MaSCE3: Math Trails in School, Curriculum and Educational Environments of Europe</strong></a>- The idea of this project is to close the gap between "normal mathematics lessons" and Math Trails as a "special learning and teaching method" through adapting them to the European curricula of mathematics education and combining the needs of teachers with the technical possibilities of digitization. Funded by Erasmus+.
+    </li>
+    <li>
+        <a href="/project/game/hera/"><strong>HERA: Higher education re-engineering through active learning for growth</strong></a>- The Erasmus+ funded project project aims to develop higher education student skills aligned with the needs of the world of work and society. 
+    </li>
+    <li>
+        <a href="/project/game/high5/"><strong>High5: Transdisciplinary methodology for Integrated Design in higher education</strong></a>- The High5 goal is to provide innovative and attractive teaching and learning methods in order to increase the effectiveness of higher education. Erasmus+ funded project. 
+    </li>
+    <li>
+        <strong>Design Thinking for Sustainability (DT4S)</strong>- DT4S aims to build awareness, basic knowledge, positive attitudes, problem solving skills, collaboration ability, and ability to synthesize innovative solutions among secondary education students aged 12-16 for preparing them to actively engage in sustainable development practices individually and in their communities as civically minded young adults. Funded by Erasmus+. 
+    </li>
+    <li>
+        <strong>ICT-INOV: Modernizing ICT Education for Harvesting Innovation</strong>- The Erasmus+ funded project aims to contibrite to the acquisition of laboratories and introduction of innovative learning methods in the field of ICT to Asian universities.
+    </li>
+    <li>
+        <strong>ALIEN</strong>- Funded by Erasmus+ to promote active learning in engineering education.
+    </li>
+    <li>
+        <strong>LEAP</strong>- Funded by Erasmus+ to gamify LEAN and agile learning in higher education.
+    </li>
+    <li>
+        <strong>DesignIT</strong>- Funded by Erasmus+ to gamify design thinking in higher education.
+    </li>
+    <li>
+        <strong>EU-DO-IT</strong>- Funded by Erasmus+ to develop an online game to develop interculturality and translanguaging.
+    </li>
+    <p><strong>Research group:</strong> Martin Sillaots, Triinu Jesmin, Kai Pata, Eka Jeladze, Maria Khan, Mikhail Fiadotau, Andrus Rinde, Pjotr Savitski, Terje Väljataga, Jaanus Terasmaa, Liisa Puusepp, Peadar Callaghan, Maris Morel.</p>
+</div>
+
+<script>
+showElement(1);
+</script>
+
+</div></div></div></div>
+:ET

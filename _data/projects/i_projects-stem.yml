@@ -6,22 +6,25 @@ projects:
     program: "Erasmus+ - Strategic Partnerships"
     members: "Kai Pata"
     image: "img/financier_logos/erasmus-plus.png" 
+    url: "/project/stem/designit/"
 
   - title: "EduMap - Adult Education as a Means to Active Participatory Citizenship"
     period: "01.02.2016 – 31.12.2018"
     program: "HORIZON 2020 YOUNG-3-2015, RIA"
-    members: "Kai Pata" 
+    members: "Kai Pata"
+    url: "/project/stem/edumap/" 
 
   - title: "YCHANGE – Young Scientists as Change Explorers - Students Evaluating Environmental Change in Europe with Digital Space Technologies"
     period: "01.12.2016 – 30.11.2018"
     program: "Erasmus+"
     members: "Terje Väljataga, Priit Tammets, Sander Aido"
     image: "img/financier_logos/erasmus-plus.png"
-    url: "/project/ychange/"
+    url: "/project/stem/ychange/"
 
   - title: "SmartZoos - Cross-border services for creative adventure learning in the zoos of the Central Baltic Region"
     period: "01.09.2015 – 31.08.2018"
     program: "Interreg Central Baltic 2014 - 2020"
     members: "Terje Väljataga, Priit Tammets, Pjotr Savitski, Gerti Pishtari"
-    image: "img/financier_logos/Nordplus.jpg"    
+    image: "img/financier_logos/Nordplus.jpg"  
+    url: "/project/stem/smartzoos/"  
 

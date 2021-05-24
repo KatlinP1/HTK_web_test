@@ -27,39 +27,45 @@ projects:
     period: "01.09.2018–31.08.2020"
     program: "Erasmus + KA2"
     members: "Linda Helene Sillat, Kaire Kollom"
-    image: "img/financier_logos/erasmus-plus.png"
+    image: "img/financier_logos/erasmus_K2.jpg"
     url: "/project/tel/abc-vle/"    
 
   - title: "GLAT: Games for Learning Algorithmic Thinking" 
     period: "02.10.2017–01.10.2019"
     program: "Erasmus + KA2"
     members: "James Sunney Quaicoe, Mart Laanpere"
-    image: img/financier_logos/erasmus-plus.png      
+    image: "img/financier_logos/erasmus_K2.jpg"   
+    url: "/project/tel/glat/"    
 
   - title: "Developing mathematics teacher master program students digital competencies through integration between subjects of subject-specific didactics module"
     period: "01.01.2017–31.01.2018"
     program: "HARNO (endine HITSA)- IT Akadeemia"
     members: "Jüri Kurvits, Madis Lepik, Tiiu Kaljas"   
-    image: img/financier_logos/HARNO.jpg   
+    image: "img/financier_logos/HARNO.jpg"
+    url: "/project/tel/mathematics-teacher/"   
 
   - title: "Competence center for educational innovations in Tallinn University" 
     period: "01.05.2017–31.08.2018"
     program: "HARNO (endine SA Innove)"
     members: "Kristi Vinter-Nemvalts, Mati Heidmets, Katrin Poom-Valickis, Eve Eisenschmidt, Priit Tammets, Kristi Vinter-Nemvalts, Kairit Tammets, Pille Slabina, Ann Leppiman, Maarja Hallik, Priit Kruus, Katrin Karu, Katrin Aava, Triin Lauri, Mare Oja, Natalia Tshuikina, Edna Vahter, Katrin Soika, Eneli Põld, Aleksandra Ljalikova, Elle Rajandu, Elina Ojamets, Anne Uusen, Kristi Paas, Merilin Aruvee, Reeli Liivik, Marit Sukk, Valentina Paas"
-    image: img/financier_logos/HARNO.jpg  
+    image: "img/financier_logos/HARNO.jpg"  
+    url: "/project/tel/educational-innovations-TLU/"  
 
   - title: "Learning Layers: Scaling up Technologies for Informal Learning in SME Clusters" 
     period: "01.11.2012–31.12.2016"
     program: "European Commission (Euroopa Komisjon)"
     members: "Tobias Ley, Priit Tammets, Kairit Tammets, Kai Pata, Vladimir Tomberg, David Lamas, Adolfo Ruiz Calleja, Pjotr Savitski, Mart Laanpere, Mati Mõttus"
+    url: "/project/tel/learning-layers/" 
         
   - title: "EMMA: European Multiple MOOC Aggregator" 
     period: "01.02.2014–31.07.2016"
     program: "European Commission - CIP - Competitiveness and Innovation Framework Programme"
-    members: "Kairit Tammets, Priit Tammets"         
+    members: "Kairit Tammets, Priit Tammets"
+    url: "/project/tel/emma/"         
 
   - title: "Creative Classroom" 
     period: "01.09.2014-31.08.2016"
     program: "Euroopa Liit, Erasmus+"
     members: "Kai Pata, Terje Väljataga, Hans Põldoja, Mart Laanpere" 
-    image: img/financier_logos/erasmus-plus.png        
+    image: "img/financier_logos/erasmus-plus.png"
+    url: "/project/tel/creative-classroom/"        
