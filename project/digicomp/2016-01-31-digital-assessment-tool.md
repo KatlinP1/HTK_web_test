@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digicomp/digital-assessment-tool/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|**Project partners**|
 |----|----|----|----|
 |31.01.2016–31.07.2017|Haridus- ja Teadusministeerium|Mart Laanpere||

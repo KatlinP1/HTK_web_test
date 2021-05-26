@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/steam/circular-economy/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.09.2014-31.08.2016|Erasmus+ (Key action 2: Strategic Partnerships)|Priit Tammets|Terje Väljataga|

@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digicomp/digicomporg/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|**Project partners**|
 |----|----|----|----|
 |01.09.2016 – 31.08.2018|EC, Joint Research Centre|Mart Laanpere||

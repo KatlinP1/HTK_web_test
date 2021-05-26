@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digilearn/digioppevaramu/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|
 |----|----|----|----|
 |08.05.2017–31.10.2018|Haridus- ja Teadusministeerium|Mart Laanpere, Jüri Kurvits, Kairit Tammets, Sander Aido, Mart Laanpere, Priit Tammets |

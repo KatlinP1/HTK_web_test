@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/tel/educational-innovations-TLU/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|
 |----|----|----|----|
 |01.05.2017–31.08.2018|HARNO (endine SA Innove)|Kristi Vinter-Nemvalts, Mati Heidmets, Katrin Poom-Valickis, Eve Eisenschmidt, Priit Tammets, Kairit Tammets, Pille Slabina, Ann Leppiman, Maarja Hallik, Priit Kruus, Katrin Karu, Katrin Aava, Triin Lauri, Mare Oja, Natalia Tshuikina, Edna Vahter, Katrin Soika, Eneli Põld, Aleksandra Ljalikova, Elle Rajandu, Elina Ojamets, Anne Uusen, Kristi Paas, Merilin Aruvee, Reeli Liivik, Marit Sukk, Valentina Paas|

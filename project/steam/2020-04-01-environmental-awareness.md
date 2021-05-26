@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/steam/environmental-awareness/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.04.2020–31.12.2020|Keskkonnainvesteeringute Keskus|Terje Väljataga|Külli Kori, Kai Pata, Priit Tammets, Jaanus Terasmaa|

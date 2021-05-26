@@ -1,0 +1,36 @@
+I"(
+<table class="table table-border, table-responsive">
+  <thead>
+    <tr>
+      <th><strong>Project period</strong></th>
+      <th><strong>Funded by</strong></th>
+      <th><strong>Project members</strong></th>
+      <th><strong>Project partners</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01.12.2016 – 30.11.2018</td>
+      <td>Erasmus+</td>
+      <td>Terje Väljataga, Priit Tammets, Sander Aido</td>
+      <td>Charles University in Prague, Pädagogische Hochschule Heidelberg</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="project-overview">Project overview</h4>
+<p>The innovative educational materials and concepts developed within the YCHANGE project enable students to learn about local environmental phenomena, how they are changing and whether these changes are sustainable in a multi- and transdisciplinary way. The materials increase the awareness of teachers and students got the potential of satellite images and their importance for todays´ society. Both teachers and students will be enabled to perform basic satellite image analysis to address environmental issues. The project YCHANGE tends to close the wide gap between the usage of earth observation via remote sensing, mostly with satellite image analysis, in science and economy on the one side and school education on the other side. Although remote sensing is relevant in curricula trouhout Europe the meaningful application of satellite image analysis is a rarity. Therefor, the three partners Heidelberg University of Education (Department for Geography), TLU (CET) and Charles University in Prague (ESERO office and AGID) with their respective foci (remote sensing education from a more pedagogical point of view; digital tools for learning; remote sensing from a more scientific point of view) form a consortium in order to develop, implement and evaluate solutions to bring satellite image analysis in school education.</p>
+
+<h4 id="project-links">Project links</h4>
+
+<ul>
+  <li>Programme’s website: <a href="https://ychange.rgeo.de" target="_blank">https://ychange.rgeo.de</a></li>
+  <li>ETIS project info (in Estonian): <a href="https://www.etis.ee/Portal/Projects/Display/2524395e-21ab-4619-8686-4a08b8c18e8d" target="_blank">https://www.etis.ee</a></li>
+  <li>ETIS project info (in English): <a href="https://www.etis.ee/Portal/Projects/Display/2524395e-21ab-4619-8686-4a08b8c18e8d?lang=ENG" target="_blank">https://www.etis.ee</a></li>
+</ul>
+
+<p><strong>Project logos</strong></p>
+<div> 
+    <img class="img-fluid-innews" src="/img/financier_logos/erasmus-plus.png" alt="EU erasmus logo" />
+</div>
+:ET

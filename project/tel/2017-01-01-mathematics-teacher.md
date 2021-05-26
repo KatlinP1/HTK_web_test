@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/tel/mathematics-teacher/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.01.2017–31.01.2018|HARNO (endine HITSA) (IT Akadeemia)||Jüri Kurvits, Madis Lepik, Tiiu Kaljas|

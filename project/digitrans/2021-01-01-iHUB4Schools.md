@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digitrans/iHUB4Schools/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.01.2021–30.06.2023|Horizon 2020|Kairit Tammets|Tobias Ley, Linda Helene Sillat, Maria Jesus Rodriquez-Triana, Pirgit Sillaots|

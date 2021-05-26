@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digicomp/digital-ecosystem/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.01.2020 - 30.06.2021|Eesti Teadusagentuur|Kairit Tammets|Priit Tammets, Linda Helene Sillat, Tobias Ley, Mart Laanpere, Pjotr Savitski|

@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/game/gameofresearchmethods/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|**Project partners**|
 |----|----|----|----|
 |01.01.2020 –31.12.2020|HARNO (Endine HITSA)| Martin Sillaots||

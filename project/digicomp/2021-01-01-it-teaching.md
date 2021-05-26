@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digicomp/it-teaching/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.01.2021 - 31.12.2021|Harno, IT Akadeemia|Hans Põldoja|Mart Laanpere, Maia Lust|

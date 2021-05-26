@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/stem/smartzoos/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|**Project partners**|
 |----|----|----|----|
 |01.09.2015 – 31.08.2018|Interreg Central Baltic 2014 - 2020|Terje Väljataga, Priit Tammets, Pjotr Savitski, Gerti Pishtari||

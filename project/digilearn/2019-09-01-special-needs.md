@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digilearn/special-needs/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.09.2019 – 31.12.2019|Tallinna Kadaka Põhikool|Mart Laanpere |Priit Tammets|

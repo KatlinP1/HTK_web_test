@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digicomp/scaffolding-thinking/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |15.05.2019–01.05.2021|Nordplus Higher Education 2019|Mart Laanpere|Maia Lust|

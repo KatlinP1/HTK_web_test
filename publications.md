@@ -38,6 +38,7 @@ feature-img: "img/banner/banner_publications.jpg"
 -->
 <p class="d-inline" style="font-size: 16px;"><strong>{{publication.authors}}</strong></p>
 <p class="d-inline pl-1">{{publication.title}}</p>
+<a href="{{publication.link}}"><p class="d-inline pl-1">{{publication.doi}}</p></a>
 </div>
 {% endfor %}
 </div>

@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/steam/outdoorlearinginschools/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.06.2018–31.12.2021|Harno|Terje Väljataga|Priit Tammets, Liisa Puusepp, Jaanus Terasmaa, Kadri Mettis|

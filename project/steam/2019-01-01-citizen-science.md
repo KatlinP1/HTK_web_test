@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/steam/citizen-science/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.01.2019–31.12.2020|Euroopa struktuuri- ja investeerimisfondid|Kai Pata|Külli Kori|

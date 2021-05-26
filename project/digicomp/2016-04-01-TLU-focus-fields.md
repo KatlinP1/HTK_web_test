@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/digicomp/TLU-focus-fields/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|
 |----|----|----|----|
 |01.04.2016 – 31.05.2017|HARNO (endine HITSA)|Kairit Tammets, Terje Väljataga, Hans Põldoja, Mart Laanpere, Kai Pata, Kaire Kollom, Veronika Rogalevitš, David Lamas, Ilja Šmorgun

@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/other/social-sciences/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local Coordinator**|**Project members**|
 |----|----|----|----|
 |03.03.2020–31.12.2021|HARNO|Mare Oja|Eve Kikas, Anu Toots, Kristiina Treial|

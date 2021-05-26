@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/game/languagegames/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Project members**|
 |----|----|----|----|
 |31.12.2015 – 30.12.2017|Erasmus+ - Strategic Partnerships|Triinu Jesmin, Martin Sillaots|

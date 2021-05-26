@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/tel/assessing-ct/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.08.2020–31.07.2022|Nordplus Horizontal 2020|Mart Laanpere|Maia Lust|

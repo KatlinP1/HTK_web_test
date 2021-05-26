@@ -5,7 +5,7 @@ feature-img: "img/publications4.jpg"
 permalink: "/project/evidenceinfo/installed/"
 ---
 
-{:class="table table-border"}
+{:class="table table-border, table-responsive"}
 |**Project period**|**Funded by**|**Local coordinator**|**Project members**|
 |----|----|----|----|
 |01.03.2021 - 28.02.2023|Erasmus+ K2|Kairit Tammets|Tobias Ley, Shashi Kant Shankar, Yagmur Cisem Yilmaz|
